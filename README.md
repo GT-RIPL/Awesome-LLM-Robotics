@@ -43,6 +43,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ---
 ## Manipulation
 
+* **CLIP-Fields**:"CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory", "arXiv, Oct 2022", [[Paper](https://arxiv.org/abs/2210.05663)] [[PyTorch Code](https://github.com/notmahi/clip-fields)] [[Website](https://mahis.life/clip-fields/)]
+
 * **VIMA**:"VIMA: General Robot Manipulation with Multimodal Prompts", "arXiv, Oct 2022", [[Paper](https://arxiv.org/abs/2210.03094)] [[Pytorch Code](https://github.com/vimalabs/VIMA)] [[Website](https://vimalabs.github.io/)]
 
 * **Perceiver-Actor**:"A Multi-Task Transformer for Robotic Manipulation", *CoRL, Sep 2022*. [[Paper](https://peract.github.io/paper/peract_corl2022.pdf)] [[Pytorch Code](https://github.com/peract/peract)] [[Website](https://peract.github.io/)]
