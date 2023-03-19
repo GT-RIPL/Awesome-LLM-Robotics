@@ -52,6 +52,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
  * **LaTTe**: "LaTTe: Language Trajectory TransformEr", *arXiv, Aug 2022*. [[Paper](https://arxiv.org/abs/2208.02918)] [[TensorFlow Code](https://github.com/arthurfenderbucker/NL_trajectory_reshaper)] [[Website](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/robot-language/)]
 
+ * **Robots Enact Malignant Stereotypes**: "Robots Enact Malignant Stereotypes", *FAccT, Jun 2022*. [[Paper](https://arxiv.org/abs/2207.11569)] [[Pytorch Code](https://github.com/ahundt/RobotsEnactMalignantStereotypes)] [[Website](https://sites.google.com/view/robots-enact-stereotypes/home)] [[Washington Post](https://www.washingtonpost.com/technology/2022/07/16/racist-robots-ai/)] [[Wired](https://www.wired.com/story/how-to-stop-robots-becoming-racist/)] (code access on request)
+
  * **ATLA**: "Leveraging Language for Accelerated Learning of Tool Manipulation", *CoRL, Jun 2022*. [[Paper](https://arxiv.org/abs/2206.13074)]
 
  * **ZeST**: "Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation?", *L4DC, Apr 2022*. [[Paper](https://arxiv.org/abs/2204.11134)]
