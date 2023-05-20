@@ -19,8 +19,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ---
 ## Reasoning
 
- * **Instruct2Act**: "Mapping Multi-modality Instructions to Robotic Actions with Large Language Model", *arXiv, Mai 2023*. [[Paper](https://arxiv.org/pdf/2305.11176.pdf)]  [[Pytorch Code](https://github.com/OpenGVLab/Instruct2Act)]
- * **TidyBot**: "Personalized Robot Assistance with Large Language Models",  *arXiv, Mai 2023*. [[Paper](https://arxiv.org/abs/2305.05658)] [[Pytorch Code](https://github.com/jimmyyhwu/tidybot/tree/main/robot)] [[Website](https://tidybot.cs.princeton.edu/)]
+ * **Instruct2Act**: "Mapping Multi-modality Instructions to Robotic Actions with Large Language Model", *arXiv, May 2023*. [[Paper](https://arxiv.org/pdf/2305.11176.pdf)]  [[Pytorch Code](https://github.com/OpenGVLab/Instruct2Act)]
+ * **TidyBot**: "Personalized Robot Assistance with Large Language Models",  *arXiv, May 2023*. [[Paper](https://arxiv.org/abs/2305.05658)] [[Pytorch Code](https://github.com/jimmyyhwu/tidybot/tree/main/robot)] [[Website](https://tidybot.cs.princeton.edu/)]
  
 * **RT-1**: "RT-1: Robotics Transformer for Real-World Control at Scale", *arXiv, Dec 2022*. [[Paper](https://arxiv.org/abs/2212.06817)]  [[GitHub](https://github.com/google-research/robotics_transformer)] [[Website](https://robotics-transformer.github.io/)]
 * **ProgPrompt**: "Generating Situated Robot Task Plans using Large Language Models", arXiv, Sept 2022. [[Paper](https://arxiv.org/abs/2209.11302)]  [[Github](https://github.com/progprompt/progprompt)] [[Website](https://progprompt.github.io/)]
