@@ -37,6 +37,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
  * **PIGLeT**: "PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World", *ACL, Jun 2021*. [[Paper](https://arxiv.org/abs/2201.07207)] [[Pytorch Code](http://github.com/rowanz/piglet)] [[Website](https://rowanzellers.com/piglet/)]
 
+* **Matcha**: "Chat with the Environment: Interactive Multimodal Perception using
+Large Language Models", Accepted in IROS, 2023. [[Paper](https://arxiv.org/pdf/2303.08268.pdf)] [[Github](https://github.com/xf-zhao/Matcha)] [[Website](https://matcha-model.github.io/)]
 
 ---
 ## Planning
