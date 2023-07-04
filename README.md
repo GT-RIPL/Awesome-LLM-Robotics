@@ -63,6 +63,11 @@ Large Language Models", Accepted in IROS, 2023. [[Paper](https://arxiv.org/pdf/2
 
  * **ZSP**: "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents", *ICML, Jan 2022*. [[Paper](https://arxiv.org/abs/2201.07207)] [[Pytorch Code](https://github.com/huangwl18/language-planner)] [[Website](https://wenlong.page/language-planner/)]
 
+* **FILM**: "FILM: Following Instructions in Language with Modular Methods", ICLR, 2022. [[Paper](https://arxiv.org/abs/2110.07342)] [[Code](https://github.com/soyeonm/FILM)] [[Website](https://soyeonm.github.io/FILM_webpage/)]
+
+* **Don't Copy the Teacher**: "Don’t Copy the Teacher: Data and Model Challenges in Embodied Dialogue", EMNLP, 2022. [[Paper](Don't Copy the Teacher: Data and Model Challenges in Embodied Dialogue)] [[Website](https://www.youtube.com/watch?v=qGPC65BDJw4&t=2s)]
+
+
 ---
 ## Manipulation
 
