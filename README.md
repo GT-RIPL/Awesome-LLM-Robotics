@@ -67,6 +67,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * "Collaborating with language models for embodied reasoning", *NeurIPS, Feb 2022*. [[Paper](https://arxiv.org/abs/2302.00763v1)]
 * **LLM-Brain**: "LLM as A Robotic Brain: Unifying Egocentric Memory and Control", arXiv, Apr 2023. [[Paper](https://arxiv.org/abs/2304.09349v1)] 
 * **Co-LLM-Agents**: "Building Cooperative Embodied Agents Modularly with Large Language Models", *arXiv, Jul 2023*. [[Paper](https://arxiv.org/abs/2307.02485)] [[Code](https://github.com/UMass-Foundation-Model/Co-LLM-Agents)] [[Website](https://vis-www.cs.umass.edu/Co-LLM-Agents/)]
+* **LLM-Reward**: "Language to Rewards for Robotic Skill Synthesis", *arXiv, Jun 2023*. [[Paper](https://language-to-reward.github.io/assets/l2r.pdf)] [[Website](https://language-to-reward.github.io/)]
+
 
 ---
 ## Manipulation
@@ -84,7 +86,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
  * **ATLA**: "Leveraging Language for Accelerated Learning of Tool Manipulation", *CoRL, Jun 2022*. [[Paper](https://arxiv.org/abs/2206.13074)]
  * **ZeST**: "Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation?", *L4DC, Apr 2022*. [[Paper](https://arxiv.org/abs/2204.11134)]
  * **LSE-NGU**: "Semantic Exploration from Language Abstractions and Pretrained Representations", *arXiv, Apr 2022*. [[Paper](https://arxiv.org/abs/2204.05080)]
- * **Embodied-CLIP**: "Simple but Effective: CLIP Embeddings for Embodied AI ", *CVPR, Nov 2021*. [[Paper](https://arxiv.org/abs/2111.09888)] [[Pytorch Code](https://github.com/allenai/embodied-clip)]
+ * **Embodied-CLIP**: "Simple but Effective: CLIP Embeddings for Embodied AI", *CVPR, Nov 2021*. [[Paper](https://arxiv.org/abs/2111.09888)] [[Pytorch Code](https://github.com/allenai/embodied-clip)]
  * **CLIPort**: "CLIPort: What and Where Pathways for Robotic Manipulation", *CoRL, Sept 2021*. [[Paper](https://arxiv.org/abs/2109.12098)] [[Pytorch Code](https://github.com/cliport/cliport)] [[Website](https://cliport.github.io/)]
  * **TIP**: "Multimodal Procedural Planning via Dual Text-Image Prompting", *arXiV, May 2023*, [[Paper](https://arxiv.org/abs/2305.01795)] 
  * **VLaMP**: "Pretrained Language Models as Visual Planners for Human Assistance", *arXiV, Apr 2023*, [[Paper](https://arxiv.org/abs/2304.09179)]
