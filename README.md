@@ -32,10 +32,11 @@ If you find this repository useful, please consider [citing](#citation) and STAR
  * **PIGLeT**: "PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World", *ACL, Jun 2021*. [[Paper](https://arxiv.org/abs/2201.07207)] [[Pytorch Code](http://github.com/rowanz/piglet)] [[Website](https://rowanzellers.com/piglet/)]
 * **Matcha**: "Chat with the Environment: Interactive Multimodal Perception using
   Large Language Models", *IROS, 2023*. [[Paper](https://arxiv.org/pdf/2303.08268.pdf)] [[Github](https://github.com/xf-zhao/Matcha)] [[Website](https://matcha-model.github.io/)]
-* **Generative Agents**: "Generative Agents: Interactive Simulacra of Human Behavior", *arXiv, Apr 2023*. [[Paper](https://arxiv.org/abs/2304.03442v1)] 
+* **Generative Agents**: "Generative Agents: Interactive Simulacra of Human Behavior", *arXiv, Apr 2023*. [[Paper](https://arxiv.org/abs/2304.03442v1) [Code](https://github.com/joonspk-research/generative_agents)] 
 * "Large Language Models as Zero-Shot Human Models for Human-Robot Interaction", *arXiv, Mar 2023*. [[Paper](https://arxiv.org/abs/2303.03548v1)] 
 * "Translating Natural Language to Planning Goals with Large-Language Models", *arXiv, Feb 2023*. [[Paper](https://arxiv.org/abs/2302.05128)] 
 * "PDDL Planning with Pretrained Large Language Models", *NeurlPS, 2022*. [[Paper](https://openreview.net/forum?id=1QMMUB4zfl)] [[Github](https://tinyurl.com/llm4pddl)]
+* "Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?" *arXiv, Mar 2023*. [[Paper](https://arxiv.org/pdf/2303.18240.pdf)]
 
 ---
 ## Planning
