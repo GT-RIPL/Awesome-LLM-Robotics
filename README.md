@@ -55,7 +55,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **ReAct**: "ReAct: Synergizing Reasoning and Acting in Language Models", *ICLR, 2023*. [[Paper](https://arxiv.org/abs/2210.03629)] [[Github](https://github.com/ysymyth/ReAct)] [[Website](https://react-lm.github.io/)]
 * **LLM-BRAIn**: "LLM-BRAIn: AI-driven Fast Generation of Robot Behaviour Tree based on Large Language Model", *arXiv, May 2023*. [[Paper](https://arxiv.org/abs/2305.19352)]
 * **MOO**: "Open-World Object Manipulation using Pre-Trained Vision-Language Models", *arXiv, Mar 2022*. [[Paper](https://arxiv.org/abs/2303.00905)] [[Website](https://robot-moo.github.io/)]
-* **CALM**: "Keep CALM and Explore: Language Models for Action Generation in Text-based Games", *arXiv, Oct 2020*. [[Paper](https://arxiv.org/abs/2010.03903v1)] [[Pytorch Code](https://github.com/princeton-nlp/calm-textgame)] 
+* **CALM**: "Keep CALM and Explore: Language Models for Action Generation in Text-based Games", *arXiv, Oct 2020*. [[Paper](https://arxiv.org/abs/2010.02903)] [[Pytorch Code](https://github.com/princeton-nlp/calm-textgame)] 
 * "Planning with Large Language Models via Corrective Re-prompting", *arXiv, Nov 2022*. [[Paper](https://arxiv.org/abs/2311.09935)]
 * "Visually-Grounded Planning without Vision: Language Models Infer Detailed Plans from High-level Instructions", *arXiV, Oct 2020*, [[Paper](https://arxiv.org/abs/2009.14259)] 
 * **LLM-planner**: "LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models", *arXiv, Mar 2023*. [[Paper](https://arxiv.org/abs/2212.04088)] [[Pytorch Code](https://github.com/OSU-NLP-Group/LLM-Planner/)] [[Website](https://dki-lab.github.io/LLM-Planner/)]
