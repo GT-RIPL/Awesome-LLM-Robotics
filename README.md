@@ -106,6 +106,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **Scalingup**: "Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition", *arXiv, July 2023*. [[Paper](https://arxiv.org/abs/2307.14535)] [[Code](https://github.com/columbia-ai-robotics/scalingup)] [[Website](https://www.cs.columbia.edu/~huy/scalingup/)]
 * **Gato**: "A Generalist Agent", *TMLR, Nov 2022*. [[Paper/PDF](https://openreview.net/pdf?id=1ikK0kHjvj)]  [[Website](https://www.deepmind.com/publications/a-generalist-agent)]
 * **RoboCat**: "RoboCat: A self-improving robotic agent", *arxiv, Jun 2023*. [[Paper/PDF](https://arxiv.org/abs/2306.11706)]  [[Website](https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent)]
+* **PhysObjects**: "Physically Grounded Vision-Language Models for Robotic Manipulation", *arxiv, Sept 2023*. [[Paper](https://arxiv.org/pdf/2309.02561.pdf)]
+* **MetaMorph**: "METAMORPH: LEARNING UNIVERSAL CONTROLLERS WITH TRANSFORMERS", *arxiv, Mar 2022*. [[Paper](https://arxiv.org/pdf/2203.11931.pdf)]
 
 
 ---
