@@ -110,6 +110,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **RoboCat**: "RoboCat: A self-improving robotic agent", *arxiv, Jun 2023*. [[Paper/PDF](https://arxiv.org/abs/2306.11706)]  [[Website](https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent)]
 * **PhysObjects**: "Physically Grounded Vision-Language Models for Robotic Manipulation", *arxiv, Sept 2023*. [[Paper](https://arxiv.org/abs/2309.02561)]
 * **MetaMorph**: "METAMORPH: LEARNING UNIVERSAL CONTROLLERS WITH TRANSFORMERS", *arxiv, Mar 2022*. [[Paper](https://arxiv.org/abs/2203.11931)]
+* **SPRINT**: "SPRINT: Semantic Policy Pre-training via Language Instruction Relabeling", *arxiv, June 2023*. [[Paper](https://arxiv.org/abs/2306.11886)] [[Website](https://clvrai.github.io/sprint/)]
+* **BOSS**: "Bootstrap Your Own Skills: Learning to Solve New Tasks with LLM Guidance", *CoRL, Nov 2023*. [[Paper](https://openreview.net/forum?id=a0mFRgadGO)] [[Website](https://clvrai.github.io/boss/)]
 
 
 ---
