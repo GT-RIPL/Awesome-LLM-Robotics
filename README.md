@@ -19,6 +19,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ---
 ## Reasoning
 
+* **[RT-X]** "Open X-Embodiment: Robotic Learning Datasets and RT-X Models", *arXiv, July 2023*.
+[[Paper](https://robotics-transformer-x.github.io/paper.pdf)] [[Website](https://robotics-transformer-x.github.io/)]
 * **[RT-2]** "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control", *arXiv, July 2023*.
 [[Paper](https://arxiv.org/abs/2307.15818)] [[Website](https://robotics-transformer2.github.io/)]
  * **Instruct2Act**: "Mapping Multi-modality Instructions to Robotic Actions with Large Language Model", *arXiv, May 2023*. [[Paper](https://arxiv.org/abs/2305.11176)]  [[Pytorch Code](https://github.com/OpenGVLab/Instruct2Act)]
