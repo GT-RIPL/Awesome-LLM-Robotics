@@ -80,6 +80,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ---
 ## Manipulation
 
+* **D<sup>3</sup>Fields**: "D<sup>3</sup>Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation", *arXiv, Sep 2023* [[Paper](https://arxiv.org/abs/2309.16118)] [[Webpage](https://robopil.github.io/d3fields/)] [[Code](https://github.com/WangYixuan12/d3fields)] [[Video](https://youtu.be/yNkIOwAO3GA)]
 * **[Text2Reward]** "Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning", *arXiv, Sep 2023*
   [[Paper](https://arxiv.org/abs/2309.11489)] [[Website](https://text-to-reward.github.io/)]
 * **[VoxPoser]** "VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models", *arXiv, July 2023*
