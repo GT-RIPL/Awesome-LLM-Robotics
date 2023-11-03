@@ -80,6 +80,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ---
 ## Manipulation
 
+* **Octopus**:"Octopus: Embodied Vision-Language Programmer from Environmental Feedback", *arXiv, Oct 2023*, [[Paper](https://arxiv.org/abs/2310.08588)] [[PyTorch Code](https://github.com/dongyh20/Octopus)] [[Website](https://choiszt.github.io/Octopus/)]
 * **[Text2Reward]** "Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning", *arXiv, Sep 2023*
   [[Paper](https://arxiv.org/abs/2309.11489)] [[Website](https://text-to-reward.github.io/)]
 * **[VoxPoser]** "VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models", *arXiv, July 2023*
