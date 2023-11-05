@@ -44,7 +44,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Planning
-
+ * **LGMCTS**: "LGMCTS: Language-Guided Monte-Carlo Tree Search for Executable Semantic Object Rearrangement", *arXiv, Sep 2023*. [[Paper](https://arxiv.org/abs/2309.15821)]
  * **Prompt2Walk**: "Prompt a Robot to Walk with Large Language Models", *arXiv, Sep 2023*, [[Paper](https://arxiv.org/abs/2309.09969)] [[Website](https://prompt2walk.github.io)]
  * **DoReMi**: "Grounding Language Model by Detecting and Recovering from Plan-Execution Misalignment", *arXiv, July 2023*, [[Paper](https://arxiv.org/abs/2307.00329)] [[Website](https://sites.google.com/view/doremi-paper)]
  * **LLM+P**:"LLM+P: Empowering Large Language Models with Optimal Planning Proficiency", *arXiv, Apr 2023*, [[Paper](https://arxiv.org/abs/2304.11477)] [[Code](https://github.com/Cranial-XIX/llm-pddl)]
@@ -123,7 +123,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Instructions and Navigation
-
+ * **OVSG**: "Context-Aware Entity Grounding with Open-Vocabulary 3D Scene Graphs", *CoRL, Nov 2023*. [[Paper](https://openreview.net/forum?id=cjEI5qXoT0)] [[Code](https://github.com/changhaonan/OVSG)] [[Website](https://ovsg-l.github.io/)]
  * **ADAPT**: "ADAPT: Vision-Language Navigation with Modality-Aligned Action Prompts", *CVPR, May 2022*. [[Paper](https://arxiv.org/abs/2205.15509)]
  * "The Unsurprising Effectiveness of Pre-Trained Vision Models for Control", *ICML, Mar 2022*. [[Paper](https://arxiv.org/abs/2203.03580)] [[Pytorch Code](https://github.com/sparisi/pvr_habitat)] [[Website](https://sites.google.com/view/pvr-control)]
  * **CoW**: "CLIP on Wheels: Zero-Shot Object Navigation as Object Localization and Exploration", *arXiv, Mar 2022*. [[Paper](https://arxiv.org/abs/2203.10421)]
