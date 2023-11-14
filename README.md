@@ -19,18 +19,14 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ---
 ## Reasoning
 
-* **[LLaRP]** "Large Language Models as Generalizable Policies for Embodied Tasks", *arXiv, Oct 2023*.
-[[Paper](https://arxiv.org/abs/2310.17722)] [[Website](https://llm-rl.github.io)]
-* **[RT-X]** "Open X-Embodiment: Robotic Learning Datasets and RT-X Models", *arXiv, July 2023*.
-[[Paper](https://robotics-transformer-x.github.io/paper.pdf)] [[Website](https://robotics-transformer-x.github.io/)]
-* **[RT-2]** "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control", *arXiv, July 2023*.
-[[Paper](https://arxiv.org/abs/2307.15818)] [[Website](https://robotics-transformer2.github.io/)]
+* **[LLaRP]** "Large Language Models as Generalizable Policies for Embodied Tasks", *arXiv, Oct 2023*. [[Paper](https://arxiv.org/abs/2310.17722)] [[Website](https://llm-rl.github.io)]
+* **[RT-X]** "Open X-Embodiment: Robotic Learning Datasets and RT-X Models", *arXiv, July 2023*. [[Paper](https://robotics-transformer-x.github.io/paper.pdf)] [[Website](https://robotics-transformer-x.github.io/)]
+* **[RT-2]** "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control", *arXiv, July 2023*. [[Paper](https://arxiv.org/abs/2307.15818)] [[Website](https://robotics-transformer2.github.io/)]
 * **Instruct2Act**: "Mapping Multi-modality Instructions to Robotic Actions with Large Language Model", *arXiv, May 2023*. [[Paper](https://arxiv.org/abs/2305.11176)]  [[Pytorch Code](https://github.com/OpenGVLab/Instruct2Act)]
 * **TidyBot**: "Personalized Robot Assistance with Large Language Models",  *arXiv, May 2023*. [[Paper](https://arxiv.org/abs/2305.05658)] [[Pytorch Code](https://github.com/jimmyyhwu/tidybot/tree/main/robot)] [[Website](https://tidybot.cs.princeton.edu/)]
 * **Generative Agents**: "Generative Agents: Interactive Simulacra of Human Behavior", *arXiv, Apr 2023*. [[Paper](https://arxiv.org/abs/2304.03442v1) [Code](https://github.com/joonspk-research/generative_agents)] 
 * **CortexBench** "Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?" *arXiv, Mar 2023*. [[Paper](https://arxiv.org/abs/2303.18240)]
-* **Matcha**: "Chat with the Environment: Interactive Multimodal Perception using
-  Large Language Models", *IROS, Mar 2023*. [[Paper](https://arxiv.org/abs/2303.08268)] [[Github](https://github.com/xf-zhao/Matcha)] [[Website](https://matcha-model.github.io/)]
+* **Matcha**: "Chat with the Environment: Interactive Multimodal Perception using Large Language Models", *IROS, Mar 2023*. [[Paper](https://arxiv.org/abs/2303.08268)] [[Github](https://github.com/xf-zhao/Matcha)] [[Website](https://matcha-model.github.io/)]
 * **PaLM-E**: "PaLM-E: An Embodied Multimodal Language Model", *arXiv, Mar 2023*, [[Paper](https://arxiv.org/abs/2303.03378)] [[Webpage](https://palm-e.github.io/)]
 * "Large Language Models as Zero-Shot Human Models for Human-Robot Interaction", *arXiv, Mar 2023*. [[Paper](https://arxiv.org/abs/2303.03548v1)] 
 * "Translating Natural Language to Planning Goals with Large-Language Models", *arXiv, Feb 2023*. [[Paper](https://arxiv.org/abs/2302.05128)] 
@@ -45,37 +41,36 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ---
 ## Planning
 
- * **Prompt2Walk**: "Prompt a Robot to Walk with Large Language Models", *arXiv, Sep 2023*, [[Paper](https://arxiv.org/abs/2309.09969)] [[Website](https://prompt2walk.github.io)]
- * **DoReMi**: "Grounding Language Model by Detecting and Recovering from Plan-Execution Misalignment", *arXiv, July 2023*, [[Paper](https://arxiv.org/abs/2307.00329)] [[Website](https://sites.google.com/view/doremi-paper)]
- * **LLM+P**:"LLM+P: Empowering Large Language Models with Optimal Planning Proficiency", *arXiv, Apr 2023*, [[Paper](https://arxiv.org/abs/2304.11477)] [[Code](https://github.com/Cranial-XIX/llm-pddl)]
- * "Foundation Models for Decision Making: Problems, Methods, and Opportunities", *arXiv, Mar 2023*, [[Paper](https://arxiv.org/abs/2303.04129)]
- * **PromptCraft**: "ChatGPT for Robotics: Design Principles and Model Abilities", *Blog, Feb 2023*, [[Paper](https://arxiv.org/abs/2306.17582)] [[Website](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)]
- * **Text2Motion**: "Text2Motion: From Natural Language Instructions to Feasible Plans", *arXiV, Mar 2023*, [[Paper](https://arxiv.org/abs/2303.12153)] [[Website](https://sites.google.com/stanford.edu/text2motion)]
- * **ChatGPT-Prompts**: "ChatGPT Empowered Long-Step Robot Control in Various Environments: A Case Application", *arXiv, Apr 2023*, [[Paper](https://arxiv.org/abs/2304.03893?s=03)] [[Code/Prompts](https://github.com/microsoft/ChatGPT-Robot-Manipulation-Prompts)]
- * **LM-Nav**: "Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action", *arXiv, July 2022*. [[Paper](https://arxiv.org/abs/2207.04429)] [[Pytorch Code](https://github.com/blazejosinski/lm_nav)] [[Website](https://sites.google.com/view/lmnav)]
- * **InnerMonlogue**: "Inner Monologue: Embodied Reasoning through Planning with Language Models", *arXiv, July 2022*. [[Paper](https://arxiv.org/abs/2207.05608)] [[Website](https://innermonologue.github.io/)]
- * **Housekeep**: "Housekeep: Tidying Virtual Households using Commonsense Reasoning", *arXiv, May 2022*. [[Paper](https://arxiv.org/abs/2205.10712)] [[Pytorch Code](https://github.com/yashkant/housekeep)] [[Website](https://yashkant.github.io/housekeep/)]
- * **LID**: "Pre-Trained Language Models for Interactive Decision-Making", *arXiv, Feb 2022*. [[Paper](https://arxiv.org/abs/2202.01771)] [[Pytorch Code](https://github.com/ShuangLI59/Language-Model-Pre-training-Improves-Generalization-in-Policy-Learning)] [[Website](https://shuangli-project.github.io/Pre-Trained-Language-Models-for-Interactive-Decision-Making/)]
- * **ZSP**: "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents", *ICML, Jan 2022*. [[Paper](https://arxiv.org/abs/2201.07207)] [[Pytorch Code](https://github.com/huangwl18/language-planner)] [[Website](https://wenlong.page/language-planner/)]
-* **FILM**: "FILM: Following Instructions in Language with Modular Methods", *ICLR, 2022*. [[Paper](https://arxiv.org/abs/2110.07342)] [[Code](https://github.com/soyeonm/FILM)] [[Website](https://soyeonm.github.io/FILM_webpage/)]
-* **Don't Copy the Teacher**: "Don’t Copy the Teacher: Data and Model Challenges in Embodied Dialogue", *EMNLP, 2022*. [[Paper](Don't Copy the Teacher: Data and Model Challenges in Embodied Dialogue)] [[Website](https://www.youtube.com/watch?v=qGPC65BDJw4&t=2s)]
-* **ReAct**: "ReAct: Synergizing Reasoning and Acting in Language Models", *ICLR, 2023*. [[Paper](https://arxiv.org/abs/2210.03629)] [[Github](https://github.com/ysymyth/ReAct)] [[Website](https://react-lm.github.io/)]
-* **LLM-BRAIn**: "LLM-BRAIn: AI-driven Fast Generation of Robot Behaviour Tree based on Large Language Model", *arXiv, May 2023*. [[Paper](https://arxiv.org/abs/2305.19352)]
-* **MOO**: "Open-World Object Manipulation using Pre-Trained Vision-Language Models", *arXiv, Mar 2022*. [[Paper](https://arxiv.org/abs/2303.00905)] [[Website](https://robot-moo.github.io/)]
-* **CALM**: "Keep CALM and Explore: Language Models for Action Generation in Text-based Games", *arXiv, Oct 2020*. [[Paper](https://arxiv.org/abs/2010.02903)] [[Pytorch Code](https://github.com/princeton-nlp/calm-textgame)] 
-* "Planning with Large Language Models via Corrective Re-prompting", *arXiv, Nov 2022*. [[Paper](https://arxiv.org/abs/2311.09935)]
-* "Visually-Grounded Planning without Vision: Language Models Infer Detailed Plans from High-level Instructions", *arXiV, Oct 2020*, [[Paper](https://arxiv.org/abs/2009.14259)] 
-* **LLM-planner**: "LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models", *arXiv, Mar 2023*. [[Paper](https://arxiv.org/abs/2212.04088)] [[Pytorch Code](https://github.com/OSU-NLP-Group/LLM-Planner/)] [[Website](https://dki-lab.github.io/LLM-Planner/)]
-* **GD**: "Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control", *arXiv, Mar 2023*. [[Paper](https://arxiv.org/abs/2303.00855)] [[Website](https://grounded-decoding.github.io/)]
-* **COWP**: "Robot Task Planning and Situation Handling in Open Worlds", *arXiv, Oct 2022*. [[Paper](https://arxiv.org/abs/2210.01287)] [[Pytorch Code](https://github.com/yding25/GPT-Planner)] [[Website](https://cowplanning.github.io/)]
-* **GLAM**: "Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning", *arXiv, May 2023*. [[Paper](https://arxiv.org/abs/2302.02662)] [[Pytorch Code](https://github.com/flowersteam/Grounding_LLMs_with_online_RL)] 
-* "Reward Design with Language Models", *ICML, Feb 2023*. [[Paper](https://arxiv.org/abs/2303.00001v1)] [[Pytorch Code](https://github.com/minaek/reward_design_with_llms)] 
-* **LLM-MCTS**: "Large Language Models as Commonsense Knowledge for Large-Scale Task Planning", *arXiv, May 2023*. [[Paper](https://arxiv.org/abs/2305.14078v1)] 
-* "Collaborating with language models for embodied reasoning", *NeurIPS, Feb 2022*. [[Paper](https://arxiv.org/abs/2302.00763v1)]
-* **LLM-Brain**: "LLM as A Robotic Brain: Unifying Egocentric Memory and Control", arXiv, Apr 2023. [[Paper](https://arxiv.org/abs/2304.09349v1)] 
+* **Prompt2Walk**: "Prompt a Robot to Walk with Large Language Models", *arXiv, Sep 2023*, [[Paper](https://arxiv.org/abs/2309.09969)] [[Website](https://prompt2walk.github.io)]
+* **DoReMi**: "Grounding Language Model by Detecting and Recovering from Plan-Execution Misalignment", *arXiv, July 2023*, [[Paper](https://arxiv.org/abs/2307.00329)] [[Website](https://sites.google.com/view/doremi-paper)]
 * **Co-LLM-Agents**: "Building Cooperative Embodied Agents Modularly with Large Language Models", *arXiv, Jul 2023*. [[Paper](https://arxiv.org/abs/2307.02485)] [[Code](https://github.com/UMass-Foundation-Model/Co-LLM-Agents)] [[Website](https://vis-www.cs.umass.edu/Co-LLM-Agents/)]
 * **LLM-Reward**: "Language to Rewards for Robotic Skill Synthesis", *arXiv, Jun 2023*. [[Paper](https://arxiv.org/abs/2306.08647)] [[Website](https://language-to-reward.github.io/)]
-
+* **GLAM**: "Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning", *arXiv, May 2023*. [[Paper](https://arxiv.org/abs/2302.02662)] [[Pytorch Code](https://github.com/flowersteam/Grounding_LLMs_with_online_RL)] 
+* **LLM-BRAIn**: "LLM-BRAIn: AI-driven Fast Generation of Robot Behaviour Tree based on Large Language Model", *arXiv, May 2023*. [[Paper](https://arxiv.org/abs/2305.19352)]
+* **LLM-MCTS**: "Large Language Models as Commonsense Knowledge for Large-Scale Task Planning", *arXiv, May 2023*. [[Paper](https://arxiv.org/abs/2305.14078v1)] 
+* **LLM+P**:"LLM+P: Empowering Large Language Models with Optimal Planning Proficiency", *arXiv, Apr 2023*, [[Paper](https://arxiv.org/abs/2304.11477)] [[Code](https://github.com/Cranial-XIX/llm-pddl)]
+* **ChatGPT-Prompts**: "ChatGPT Empowered Long-Step Robot Control in Various Environments: A Case Application", *arXiv, Apr 2023*, [[Paper](https://arxiv.org/abs/2304.03893?s=03)] [[Code/Prompts](https://github.com/microsoft/ChatGPT-Robot-Manipulation-Prompts)]
+* **LLM-Brain**: "LLM as A Robotic Brain: Unifying Egocentric Memory and Control", arXiv, Apr 2023. [[Paper](https://arxiv.org/abs/2304.09349v1)] 
+* **LLM-planner**: "LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models", *arXiv, Mar 2023*. [[Paper](https://arxiv.org/abs/2212.04088)] [[Pytorch Code](https://github.com/OSU-NLP-Group/LLM-Planner/)] [[Website](https://dki-lab.github.io/LLM-Planner/)]
+* "Foundation Models for Decision Making: Problems, Methods, and Opportunities", *arXiv, Mar 2023*, [[Paper](https://arxiv.org/abs/2303.04129)]
+* **Text2Motion**: "Text2Motion: From Natural Language Instructions to Feasible Plans", *arXiV, Mar 2023*, [[Paper](https://arxiv.org/abs/2303.12153)] [[Website](https://sites.google.com/stanford.edu/text2motion)]
+* **GD**: "Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control", *arXiv, Mar 2023*. [[Paper](https://arxiv.org/abs/2303.00855)] [[Website](https://grounded-decoding.github.io/)]
+* "Reward Design with Language Models", *ICML, Feb 2023*. [[Paper](https://arxiv.org/abs/2303.00001v1)] [[Pytorch Code](https://github.com/minaek/reward_design_with_llms)] 
+* **PromptCraft**: "ChatGPT for Robotics: Design Principles and Model Abilities", *Blog, Feb 2023*, [[Paper](https://arxiv.org/abs/2306.17582)] [[Website](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)]
+* "Planning with Large Language Models via Corrective Re-prompting", *arXiv, Nov 2022*. [[Paper](https://arxiv.org/abs/2311.09935)]
+* **ReAct**: "ReAct: Synergizing Reasoning and Acting in Language Models", *ICLR, 2023*. [[Paper](https://arxiv.org/abs/2210.03629)] [[Github](https://github.com/ysymyth/ReAct)] [[Website](https://react-lm.github.io/)] <!-- Oct 2022 on arXiv -->
+* **Don't Copy the Teacher**: "Don’t Copy the Teacher: Data and Model Challenges in Embodied Dialogue", *EMNLP, 2022*. [[Paper](https://arxiv.org/abs/2210.04443)] [[Website](https://www.youtube.com/watch?v=qGPC65BDJw4&t=2s)] <!-- Oct 2022 on arXiv -->
+* **COWP**: "Robot Task Planning and Situation Handling in Open Worlds", *arXiv, Oct 2022*. [[Paper](https://arxiv.org/abs/2210.01287)] [[Pytorch Code](https://github.com/yding25/GPT-Planner)] [[Website](https://cowplanning.github.io/)]
+* **LM-Nav**: "Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action", *arXiv, July 2022*. [[Paper](https://arxiv.org/abs/2207.04429)] [[Pytorch Code](https://github.com/blazejosinski/lm_nav)] [[Website](https://sites.google.com/view/lmnav)]
+* **InnerMonlogue**: "Inner Monologue: Embodied Reasoning through Planning with Language Models", *arXiv, July 2022*. [[Paper](https://arxiv.org/abs/2207.05608)] [[Website](https://innermonologue.github.io/)]
+* **Housekeep**: "Housekeep: Tidying Virtual Households using Commonsense Reasoning", *arXiv, May 2022*. [[Paper](https://arxiv.org/abs/2205.10712)] [[Pytorch Code](https://github.com/yashkant/housekeep)] [[Website](https://yashkant.github.io/housekeep/)]
+* **MOO**: "Open-World Object Manipulation using Pre-Trained Vision-Language Models", *arXiv, Mar 2022*. [[Paper](https://arxiv.org/abs/2303.00905)] [[Website](https://robot-moo.github.io/)]
+* **LID**: "Pre-Trained Language Models for Interactive Decision-Making", *arXiv, Feb 2022*. [[Paper](https://arxiv.org/abs/2202.01771)] [[Pytorch Code](https://github.com/ShuangLI59/Language-Model-Pre-training-Improves-Generalization-in-Policy-Learning)] [[Website](https://shuangli-project.github.io/Pre-Trained-Language-Models-for-Interactive-Decision-Making/)]
+* "Collaborating with language models for embodied reasoning", *NeurIPS, Feb 2022*. [[Paper](https://arxiv.org/abs/2302.00763v1)]
+* **ZSP**: "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents", *ICML, Jan 2022*. [[Paper](https://arxiv.org/abs/2201.07207)] [[Pytorch Code](https://github.com/huangwl18/language-planner)] [[Website](https://wenlong.page/language-planner/)]
+* **FILM**: "FILM: Following Instructions in Language with Modular Methods", *ICLR, 2022*. [[Paper](https://arxiv.org/abs/2110.07342)] [[Code](https://github.com/soyeonm/FILM)] [[Website](https://soyeonm.github.io/FILM_webpage/)] <!-- Oct 2021 on arXiv -->
+* **CALM**: "Keep CALM and Explore: Language Models for Action Generation in Text-based Games", *arXiv, Oct 2020*. [[Paper](https://arxiv.org/abs/2010.02903)] [[Pytorch Code](https://github.com/princeton-nlp/calm-textgame)] 
+* "Visually-Grounded Planning without Vision: Language Models Infer Detailed Plans from High-level Instructions", *arXiV, Oct 2020*, [[Paper](https://arxiv.org/abs/2009.14259)] 
 
 ---
 ## Manipulation
