@@ -104,7 +104,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
  * **R3M**:"R3M: A Universal Visual Representation for Robot Manipulation", *arXiv, Nov 2022*, [[Paper](https://arxiv.org/abs/2203.12601)] [[Pytorch Code](https://github.com/facebookresearch/r3m)] [[Website](https://tinyurl.com/robotr3m)]
  * **LIV**:"LIV: Language-Image Representations and Rewards for Robotic Control", *arXiv, Jun 2023*, [[Paper](https://arxiv.org/abs/2306.00958)] [[Pytorch Code](https://github.com/penn-pal-lab/LIV)] [[Website](https://penn-pal-lab.github.io/LIV/)]
  * **LILAC**:"No, to the Right – Online Language Corrections for Robotic Manipulation via Shared Autonomy", *arXiv, Jan 2023*, [[Paper](https://arxiv.org/abs/2301.02555)] [[Pytorch Code](https://github.com/Stanford-ILIAD/lilac)]
- * **NLMap**:"Open-vocabulary Queryable Scene Representations for Real World Planning", *arXiv, Oct 2023*, [[Paper](https://arxiv.org/abs/2209.09874)] [[Website](https://nlmap-saycan.github.io/)]
+ * **NLMap**:"Open-vocabulary Queryable Scene Representations for Real World Planning", *arXiv, Sep 2022*, [[Paper](https://arxiv.org/abs/2209.09874)] [[Website](https://nlmap-saycan.github.io/)]
  * **LLM-GROP**:"Task and Motion Planning with Large Language Models for Object Rearrangement", *arXiv, May 2023*. [[Paper](https://arxiv.org/pdf/2303.06247)] [[Website](https://sites.google.com/view/llm-grop)]
  * "Towards a Unified Agent with Foundation Models", *ICLR, 2023*. [[Paper](https://www.semanticscholar.org/paper/TOWARDS-A-UNIFIED-AGENT-WITH-FOUNDATION-MODELS-Palo-Byravan/67188a50e1d8a601896f1217451b99f646af4ac8)] 
  * **ELLM**:"Guiding Pretraining in Reinforcement Learning with Large Language Models", *arXiv, Feb 2023*. [[Paper](https://arxiv.org/abs/2302.06692)] 
@@ -132,6 +132,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
  * **VLN-BERT**: "Improving Vision-and-Language Navigation with Image-Text Pairs from the Web", *ECCV, Apr 2020* [[Paper](https://arxiv.org/abs/2004.14973)] [[Pytorch Code](https://github.com/arjunmajum/vln-bert)]
 * "Interactive Language: Talking to Robots in Real Time", *arXiv, Oct 2022* [[Paper](https://arxiv.org/abs/2210.06407)] [[Website](https://interactive-language.github.io/)]
 * **VLMaps**: "Visual Language Maps for Robot Navigation", *arXiv, Mar 2023*. [[Paper](https://arxiv.org/abs/2210.05714)] [[Pytorch Code](https://github.com/vlmaps/vlmaps)] [[Website](https://vlmaps.github.io/)]
+ * **NLMap**:"Open-vocabulary Queryable Scene Representations for Real World Planning", *arXiv, Sep 2022*, [[Paper](https://arxiv.org/abs/2209.09874)] [[Website](https://nlmap-saycan.github.io/)]
 
 ---
 ## Simulation Frameworks
