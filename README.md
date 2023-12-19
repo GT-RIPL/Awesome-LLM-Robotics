@@ -9,12 +9,17 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ---
 ## Overview
 
+  - [Surveys](#surveys)
   - [Reasoning](#reasoning)
   - [Planning](#planning)
   - [Manipulation](#manipulation)
   - [Instructions and Navigation](#instructions-and-navigation)
   - [Simulation Frameworks](#simulation-frameworks)
   - [Citation](#citation)
+
+---
+## Surveys
+* "Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis", *arXiv, Dec 2023*. [[Paper](https://arxiv.org/abs/2312.08782)] [[Paper List](https://github.com/JeffreyYH/robotics-fm-survey)] [[Website](https://robotics-fm-survey.github.io/)] 
 
 ---
 ## Reasoning
