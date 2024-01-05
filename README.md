@@ -28,7 +28,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ## Reasoning
 
 * **LEO**: "An Embodied Generalist Agent in 3D World", *arXiv, Nov 2023*. [[Paper](https://arxiv.org/abs/2311.12871)] [[Code](https://github.com/embodied-generalist/embodied-generalist)] [[Website](https://embodied-generalist.github.io/)]
-* **Robogen**: "A generative and self-guided robotic agent that endlessly propose and master new skills.", *arXiv, Nov 2023*. [[Paper](https://arxiv.org/abs/2311.01455)] [[Code](https://github.com/Genesis-Embodied-AI/RoboGen)] [[Website](https://robogen-ai.github.io/)] 
+* **Robogen**: "A generative and self-guided robotic agent that endlessly propose and master new skills.", *arXiv, Nov 2023*. [[Paper](https://arxiv.org/abs/2311.01455)] [[Code](https://github.com/Genesis-Embodied-AI/RoboGen)] [[Website](https://robogen-ai.github.io/)]
+* **SayPlan**: "Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning", *Conference on Robot Learning (CoRL), Nov 2023*. [[Paper](https://arxiv.org/abs/2307.06135)] [[Website](https://sayplan.github.io/)]
 * **[LLaRP]** "Large Language Models as Generalizable Policies for Embodied Tasks", *arXiv, Oct 2023*.
 [[Paper](https://arxiv.org/abs/2310.17722)] [[Website](https://llm-rl.github.io)]
 * **[RT-X]** "Open X-Embodiment: Robotic Learning Datasets and RT-X Models", *arXiv, July 2023*.
@@ -42,7 +43,6 @@ If you find this repository useful, please consider [citing](#citation) and STAR
  * **ProgPrompt**: "Generating Situated Robot Task Plans using Large Language Models", *arXiv, Sept 2022*. [[Paper](https://arxiv.org/abs/2209.11302)]  [[Github](https://github.com/progprompt/progprompt)] [[Website](https://progprompt.github.io/)]
  * **Code-As-Policies**: "Code as Policies: Language Model Programs for Embodied Control", *arXiv, Sept 2022*. [[Paper](https://arxiv.org/abs/2209.07753)]  [[Colab](https://github.com/google-research/google-research/tree/master/code_as_policies)] [[Website](https://code-as-policies.github.io/)]
  * **Say-Can**: "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances", *arXiv, Apr 2021*. [[Paper](https://arxiv.org/abs/2204.01691)]  [[Colab](https://say-can.github.io/#open-source)] [[Website](https://say-can.github.io/)]
- * **SayPlan**: "Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning", *Conference on Robot Learning (CoRL), 2023*. [[Paper](https://arxiv.org/abs/2307.06135)] [[Website](https://sayplan.github.io/)]
  * **Socratic**: "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language", *arXiv, Apr 2021*. [[Paper](https://arxiv.org/abs/2204.00598)] [[Pytorch Code](https://socraticmodels.github.io/#code)] [[Website](https://socraticmodels.github.io/)]
  * **PIGLeT**: "PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World", *ACL, Jun 2021*. [[Paper](https://arxiv.org/abs/2201.07207)] [[Pytorch Code](http://github.com/rowanz/piglet)] [[Website](https://rowanzellers.com/piglet/)]
 * **Matcha**: "Chat with the Environment: Interactive Multimodal Perception using
