@@ -88,7 +88,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **LLM-Brain**: "LLM as A Robotic Brain: Unifying Egocentric Memory and Control", arXiv, Apr 2023. [[Paper](https://arxiv.org/abs/2304.09349v1)] 
 * **Co-LLM-Agents**: "Building Cooperative Embodied Agents Modularly with Large Language Models", *arXiv, Jul 2023*. [[Paper](https://arxiv.org/abs/2307.02485)] [[Code](https://github.com/UMass-Foundation-Model/Co-LLM-Agents)] [[Website](https://vis-www.cs.umass.edu/Co-LLM-Agents/)]
 * **LLM-Reward**: "Language to Rewards for Robotic Skill Synthesis", *arXiv, Jun 2023*. [[Paper](https://arxiv.org/abs/2306.08647)] [[Website](https://language-to-reward.github.io/)]
-* **CoPAL**: "Corrective Planning of Robot Actions with Large Language Models", *arXiv, Oct 2023*. [[Paper](https://arxiv.org/abs/2310.07263)] [[Website](https://hri-eu.github.io/Loom/)]
+* **CoPAL**: "Corrective Planning of Robot Actions with Large Language Models", *arXiv, Oct 2023*. [[Paper](https://arxiv.org/abs/2310.07263)] [[Website](https://hri-eu.github.io/Loom/)][[Code](https://github.com/HRI-EU/Loom/tree/main)]
 
 
 ---
