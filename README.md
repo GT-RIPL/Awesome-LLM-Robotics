@@ -89,6 +89,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **Co-LLM-Agents**: "Building Cooperative Embodied Agents Modularly with Large Language Models", *arXiv, Jul 2023*. [[Paper](https://arxiv.org/abs/2307.02485)] [[Code](https://github.com/UMass-Foundation-Model/Co-LLM-Agents)] [[Website](https://vis-www.cs.umass.edu/Co-LLM-Agents/)]
 * **LLM-Reward**: "Language to Rewards for Robotic Skill Synthesis", *arXiv, Jun 2023*. [[Paper](https://arxiv.org/abs/2306.08647)] [[Website](https://language-to-reward.github.io/)]
 * **AlphaBlock**: "AlphaBlock: Embodied Finetuning for Vision-Language Reasoning in Robot Manipulation", *arxiv, May 2023*. [[Paper](https://arxiv.org/abs/2305.18898)]
+* **CoPAL**: "Corrective Planning of Robot Actions with Large Language Models", *arXiv, Oct 2023*. [[Paper](https://arxiv.org/abs/2310.07263)] [[Website](https://hri-eu.github.io/Loom/)][[Code](https://github.com/HRI-EU/Loom/tree/main)]
 
 
 ---
