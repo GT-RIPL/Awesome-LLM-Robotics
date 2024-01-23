@@ -142,7 +142,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Simulation Frameworks
- * **OmniGibson**: "OmniGibson: a platform for accelerating Embodied AI research built upon NVIDIA's Omniverse engine.". [[Paper](https://openreview.net/forum?id=_8DoIe8G3t)] [[Code](https://github.com/StanfordVL/OmniGibson)] 
+ * **OmniGibson**: "OmniGibson: a platform for accelerating Embodied AI research built upon NVIDIA's Omniverse engine". [[Paper](https://openreview.net/forum?id=_8DoIe8G3t)] [[Code](https://github.com/StanfordVL/OmniGibson)] 
  * **GENESIS**: "A generative world for general-purpose robotics & embodied AI learning.", *arXiv, Nov 2023*. [[Code](https://github.com/Genesis-Embodied-AI/Genesis)] 
  * **MineDojo**: "MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge", *arXiv, Jun 2022*. [[Paper](https://arxiv.org/abs/2206.08853)] [[Code](https://github.com/MineDojo/MineDojo)] [[Website](https://minedojo.org/)] [[Open Database](https://minedojo.org/knowledge_base.html)]
  * **Habitat 2.0**: "Habitat 2.0: Training Home Assistants to Rearrange their Habitat", *NeurIPS, Dec 2021*. [[Paper](https://arxiv.org/abs/2106.14405)] [[Code](https://github.com/facebookresearch/habitat-sim)] [[Website](https://aihabitat.org/)]
