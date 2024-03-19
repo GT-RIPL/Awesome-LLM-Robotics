@@ -96,7 +96,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Manipulation
-
+* **ManipVQA**:"ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models", *arXiv, Mar 2024*, [[Paper](https://arxiv.org/abs/2403.11289)] [[PyTorch Code](https://github.com/SiyuanHuang95/ManipVQA)] 
 * **Octopus**:"Octopus: Embodied Vision-Language Programmer from Environmental Feedback", *arXiv, Oct 2023*, [[Paper](https://arxiv.org/abs/2310.08588)] [[PyTorch Code](https://github.com/dongyh20/Octopus)] [[Website](https://choiszt.github.io/Octopus/)]
 * **[Text2Reward]** "Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning", *arXiv, Sep 2023*
   [[Paper](https://arxiv.org/abs/2309.11489)] [[Website](https://text-to-reward.github.io/)]
