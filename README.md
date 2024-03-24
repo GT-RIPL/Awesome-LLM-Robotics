@@ -56,6 +56,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Planning
+* **Attentive Support**: "To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions", *arXiv, March 2024*. [[Paper](https://arxiv.org/abs/2403.12533)] [[Website](https://hri-eu.github.io/AttentiveSupport/)][[Code](https://github.com/HRI-EU/AttentiveSupport)]
+ * **CoPAL**: "Corrective Planning of Robot Actions with Large Language Models", *ICRA, 2024*. [[Paper](https://arxiv.org/abs/2310.07263)] [[Website](https://hri-eu.github.io/Loom/)][[Code](https://github.com/HRI-EU/Loom/tree/main)]
  * **SayCanPay**: "SayCanPay: Heuristic Planning with Large Language Models Using Learnable Domain Knowledge", AAAI 2024, [[Paper](https://arxiv.org/pdf/2308.12682.pdf)] [[Code](https://github.com/RishiHazra/saycanpay)] [[Website](https://rishihazra.github.io/SayCanPay/)]
  * **ViLa**: "Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning", *arXiv, Sep 2023*, [[Paper](https://arxiv.org/abs/2311.17842)] [[Website](https://robot-vila.github.io/)]
  * **LGMCTS**: "LGMCTS: Language-Guided Monte-Carlo Tree Search for Executable Semantic Object Rearrangement", *arXiv, Sep 2023*. [[Paper](https://arxiv.org/abs/2309.15821)]
@@ -90,7 +92,6 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **Co-LLM-Agents**: "Building Cooperative Embodied Agents Modularly with Large Language Models", *arXiv, Jul 2023*. [[Paper](https://arxiv.org/abs/2307.02485)] [[Code](https://github.com/UMass-Foundation-Model/Co-LLM-Agents)] [[Website](https://vis-www.cs.umass.edu/Co-LLM-Agents/)]
 * **LLM-Reward**: "Language to Rewards for Robotic Skill Synthesis", *arXiv, Jun 2023*. [[Paper](https://arxiv.org/abs/2306.08647)] [[Website](https://language-to-reward.github.io/)]
 * **AlphaBlock**: "AlphaBlock: Embodied Finetuning for Vision-Language Reasoning in Robot Manipulation", *arxiv, May 2023*. [[Paper](https://arxiv.org/abs/2305.18898)]
-* **CoPAL**: "Corrective Planning of Robot Actions with Large Language Models", *arXiv, Oct 2023*. [[Paper](https://arxiv.org/abs/2310.07263)] [[Website](https://hri-eu.github.io/Loom/)][[Code](https://github.com/HRI-EU/Loom/tree/main)]
 * **Beyond Text**: "Beyond Text: Improving LLM's Decision Making for Robot Navigation via Vocal Cues", *arxiv, Feb 2024*. [[Paper](https://arxiv.org/abs/2402.03494)]
 
 
