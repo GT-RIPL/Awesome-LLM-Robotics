@@ -107,6 +107,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **Grasp Anything**: "Pave the Way to Grasp Anything: Transferring Foundation Models for Universal Pick-Place Robots", *arxiv, June 2023*. [[Paper](https://arxiv.org/abs/2306.05716)]
 * **LLM-GROP**:"Task and Motion Planning with Large Language Models for Object Rearrangement", *arXiv, May 2023*. [[Paper](https://arxiv.org/pdf/2303.06247)] [[Website](https://sites.google.com/view/llm-grop)]
 * **VOYAGER**:"VOYAGER: An Open-Ended Embodied Agent with Large Language Models", *arXiv, May 2023*. [[Paper](https://arxiv.org/abs/2305.16291)] [[Pytorch Code](https://github.com/MineDojo/Voyager)] [[Website](https://voyager.minedojo.org/)]
+* **TIP**: "Multimodal Procedural Planning via Dual Text-Image Prompting", *arXiV, May 2023*, [[Paper](https://arxiv.org/abs/2305.01795)]
 * **ProgramPort**:"Programmatically Grounded, Compositionally Generalizable Robotic Manipulation", *ICLR, Apr 2023*, [[Paper](https://arxiv.org/abs/2304.13826)] [[Website] (https://progport.github.io/)]
 * **VLaMP**: "Pretrained Language Models as Visual Planners for Human Assistance", *arXiV, Apr 2023*, [[Paper](https://arxiv.org/abs/2304.09179)]
 * "Towards a Unified Agent with Foundation Models", *ICLR, Apr 2023*. [[Paper](https://www.semanticscholar.org/paper/TOWARDS-A-UNIFIED-AGENT-WITH-FOUNDATION-MODELS-Palo-Byravan/67188a50e1d8a601896f1217451b99f646af4ac8)] 
@@ -130,7 +131,6 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **MetaMorph**: "METAMORPH: LEARNING UNIVERSAL CONTROLLERS WITH TRANSFORMERS", *arxiv, Mar 2022*. [[Paper](https://arxiv.org/abs/2203.11931)]
 * **Embodied-CLIP**: "Simple but Effective: CLIP Embeddings for Embodied AI", *CVPR, Nov 2021*. [[Paper](https://arxiv.org/abs/2111.09888)] [[Pytorch Code](https://github.com/allenai/embodied-clip)]
 * **CLIPort**: "CLIPort: What and Where Pathways for Robotic Manipulation", *CoRL, Sept 2021*. [[Paper](https://arxiv.org/abs/2109.12098)] [[Pytorch Code](https://github.com/cliport/cliport)] [[Website](https://cliport.github.io/)]
-* **TIP**: "Multimodal Procedural Planning via Dual Text-Image Prompting", *arXiV, May 2023*, [[Paper](https://arxiv.org/abs/2305.01795)]
 
 ---
 ## Instructions and Navigation
