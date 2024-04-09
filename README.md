@@ -26,7 +26,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * "The Development of LLMs for Embodied Navigation", *arXiv, Nov 2023*, [[Paper](https://arxiv.org/abs/2311.00530)]
 ---
 ## Reasoning
-
+* **MoMa-LLM**: "Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation", *arXiv, Mar 2024*. [[Paper](https://arxiv.org/abs/2403.08605)] [[Code](https://github.com/robot-learning-freiburg/MoMa-LLM)] [[Website](http://moma-llm.cs.uni-freiburg.de/)]
 * **AutoRT**: "Embodied Foundation Models for Large Scale Orchestration of Robotic Agents", *arXiv, Jan 2024*. [[Paper](https://auto-rt.github.io/static/pdf/AutoRT.pdf)] [[Website](https://auto-rt.github.io/)]
 * **LEO**: "An Embodied Generalist Agent in 3D World", *arXiv, Nov 2023*. [[Paper](https://arxiv.org/abs/2311.12871)] [[Code](https://github.com/embodied-generalist/embodied-generalist)] [[Website](https://embodied-generalist.github.io/)]
 * **Robogen**: "A generative and self-guided robotic agent that endlessly propose and master new skills.", *arXiv, Nov 2023*. [[Paper](https://arxiv.org/abs/2311.01455)] [[Code](https://github.com/Genesis-Embodied-AI/RoboGen)] [[Website](https://robogen-ai.github.io/)]
