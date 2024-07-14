@@ -27,7 +27,6 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * "The Development of LLMs for Embodied Navigation", *arXiv, Nov 2023*, [[Paper](https://arxiv.org/abs/2311.00530)]
 ---
 ## Reasoning
-* **LLM3**: "LLM3: Large Language Model-based Task and Motion Planning with Motion Failure Reasoning", *IROS, Mar 2024*. [[Paper](https://arxiv.org/abs/2403.11552)][[Code](https://github.com/AssassinWS/LLM-TAMP)]
 * **CLEAR**: "Language, Camera, Autonomy! Prompt-engineered Robot Control for Rapidly Evolving Deployment", *ACM/IEEE International Conference on Human-Robot Interaction (HRI), Mar 2024*. [[Paper](https://dl.acm.org/doi/10.1145/3610978.3640671)] [[Code](https://github.com/MITLL-CLEAR)]
 * **MoMa-LLM**: "Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation", *arXiv, Mar 2024*. [[Paper](https://arxiv.org/abs/2403.08605)] [[Code](https://github.com/robot-learning-freiburg/MoMa-LLM)] [[Website](http://moma-llm.cs.uni-freiburg.de/)]
 * **AutoRT**: "Embodied Foundation Models for Large Scale Orchestration of Robotic Agents", *arXiv, Jan 2024*. [[Paper](https://auto-rt.github.io/static/pdf/AutoRT.pdf)] [[Website](https://auto-rt.github.io/)]
@@ -55,6 +54,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Planning
+* **LLM3**: "LLM3: Large Language Model-based Task and Motion Planning with Motion Failure Reasoning", *IROS, Mar 2024*. [[Paper](https://arxiv.org/abs/2403.11552)][[Code](https://github.com/AssassinWS/LLM-TAMP)]
 * **BTGenBot**: "BTGenBot: Behavior Tree Generation for Robotic Tasks with Lightweight LLMs", *arXiv, March 2024*. [[Paper](https://arxiv.org/abs/2403.12761)][[Github](https://github.com/AIRLab-POLIMI/BTGenBot)]
 * **Attentive Support**: "To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions", *arXiv, March 2024*. [[Paper](https://arxiv.org/abs/2403.12533)] [[Website](https://hri-eu.github.io/AttentiveSupport/)][[Code](https://github.com/HRI-EU/AttentiveSupport)]
 * **Beyond Text**: "Beyond Text: Improving LLM's Decision Making for Robot Navigation via Vocal Cues", *arxiv, Feb 2024*. [[Paper](https://arxiv.org/abs/2402.03494)]
