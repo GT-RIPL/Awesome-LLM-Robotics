@@ -19,12 +19,14 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Surveys
+* "A Superalignment Framework in Autonomous Driving with Large Language Models", *arXiv, Jun 2024*, [[Paper](https://arxiv.org/abs/2406.05651)]
 * "Neural Scaling Laws for Embodied AI", *arXiv, May 2024*. [[Paper](https://arxiv.org/abs/2405.14005)]
 * "Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis", *arXiv, Dec 2023*. [[Paper](https://arxiv.org/abs/2312.08782)] [[Paper List](https://github.com/JeffreyYH/robotics-fm-survey)] [[Website](https://robotics-fm-survey.github.io/)] 
 * "Language-conditioned Learning for Robotic Manipulation: A Survey", *arXiv, Dec 2023*, [[Paper](https://arxiv.org/abs/2312.10807)] 
 * "Foundation Models in Robotics: Applications, Challenges, and the Future", *arXiv, Dec 2023*, [[Paper](https://arxiv.org/abs/2312.07843)] [[Paper List](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)]
 * "Robot Learning in the Era of Foundation Models: A Survey", *arXiv, Nov 2023*, [[Paper](https://arxiv.org/abs/2311.14379)]
 * "The Development of LLMs for Embodied Navigation", *arXiv, Nov 2023*, [[Paper](https://arxiv.org/abs/2311.00530)]
+
 ---
 ## Reasoning
 * **CLEAR**: "Language, Camera, Autonomy! Prompt-engineered Robot Control for Rapidly Evolving Deployment", *ACM/IEEE International Conference on Human-Robot Interaction (HRI), Mar 2024*. [[Paper](https://dl.acm.org/doi/10.1145/3610978.3640671)] [[Code](https://github.com/MITLL-CLEAR)]
@@ -54,6 +56,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Planning
+* "Embodied AI in Mobile Robots: Coverage Path Planning with Large Language Models", *arXiV, Jul 2024*, [[Paper](https://arxiv.org/abs/2407.02220)] 
 * **LLM3**: "LLM3: Large Language Model-based Task and Motion Planning with Motion Failure Reasoning", *IROS, Mar 2024*. [[Paper](https://arxiv.org/abs/2403.11552)][[Code](https://github.com/AssassinWS/LLM-TAMP)]
 * **BTGenBot**: "BTGenBot: Behavior Tree Generation for Robotic Tasks with Lightweight LLMs", *arXiv, March 2024*. [[Paper](https://arxiv.org/abs/2403.12761)][[Github](https://github.com/AIRLab-POLIMI/BTGenBot)]
 * **Attentive Support**: "To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions", *arXiv, March 2024*. [[Paper](https://arxiv.org/abs/2403.12533)] [[Website](https://hri-eu.github.io/AttentiveSupport/)][[Code](https://github.com/HRI-EU/AttentiveSupport)]
