@@ -168,11 +168,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Safety, Risks, Red Teaming, and Adversarial Testing
-
 * **LLM-Driven Robots Risk Enacting Discrimination, Violence, and Unlawful Actions**: *arXiv, Jun 2024*. [[Paper](https://arxiv.org/abs/2406.08824)]
-
 * **Highlighting the Safety Concerns of Deploying LLMs/VLMs in Robotics**: *arXiv, Feb 2024*. [[Paper](https://arxiv.org/abs/2402.10340)]
-
 * **Robots Enact Malignant Stereotypes**: *FAccT, Jun 2022*. [[arXiv](https://arxiv.org/abs/2207.11569)] [[DOI](https://doi.org/10.1145/3531146.3533138)] [[Code](https://github.com/ahundt/RobotsEnactMalignantStereotypes)] [[Website](https://sites.google.com/view/robots-enact-stereotypes/home)] 
 
 ----
