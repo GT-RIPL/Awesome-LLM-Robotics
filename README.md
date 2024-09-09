@@ -29,6 +29,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Reasoning
+* **ReKep**: "ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation", *Sep 2024*. [[Paper](https://rekep-robot.github.io/rekep.pdf)] [[Code](https://github.com/huangwl18/ReKep)] [[Website](https://rekep-robot.github.io)]
 * **CLEAR**: "Language, Camera, Autonomy! Prompt-engineered Robot Control for Rapidly Evolving Deployment", *ACM/IEEE International Conference on Human-Robot Interaction (HRI), Mar 2024*. [[Paper](https://dl.acm.org/doi/10.1145/3610978.3640671)] [[Code](https://github.com/MITLL-CLEAR)]
 * **MoMa-LLM**: "Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation", *arXiv, Mar 2024*. [[Paper](https://arxiv.org/abs/2403.08605)] [[Code](https://github.com/robot-learning-freiburg/MoMa-LLM)] [[Website](http://moma-llm.cs.uni-freiburg.de/)]
 * **AutoRT**: "Embodied Foundation Models for Large Scale Orchestration of Robotic Agents", *arXiv, Jan 2024*. [[Paper](https://auto-rt.github.io/static/pdf/AutoRT.pdf)] [[Website](https://auto-rt.github.io/)]
