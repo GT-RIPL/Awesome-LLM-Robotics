@@ -101,7 +101,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Manipulation
-* ** Manipulate-Anything**: "Manipulate-Anything: Automating Real-World Robots using Vision-Language Models", *CoRL, Nov 2024*. [[Paper](https://robot-ma.github.io/MA_paper.pdf)] [[Code](https://robot-ma.github.io/)] [[Website]([link](https://robot-ma.github.io/))]
+* **Manipulate-Anything**: "Manipulate-Anything: Automating Real-World Robots using Vision-Language Models", *CoRL, Nov 2024*. [[Paper](https://robot-ma.github.io/MA_paper.pdf)] [[Code](https://robot-ma.github.io/)] [[Website](https://robot-ma.github.io/)]
 * **Plan-Seq-Learn**:"Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks", *ICLR, May 2024*. [[Paper](https://arxiv.org/pdf/2405.01534)], [[PyTorch Code](https://github.com/mihdalal/planseqlearn)] [[Website](https://mihdalal.github.io/planseqlearn/)]
 * **ManipVQA**:"ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models", *arXiv, Mar 2024*, [[Paper](https://arxiv.org/abs/2403.11289)] [[PyTorch Code](https://github.com/SiyuanHuang95/ManipVQA)] 
 * **BOSS**: "Bootstrap Your Own Skills: Learning to Solve New Tasks with LLM Guidance", *CoRL, Nov 2023*. [[Paper](https://openreview.net/forum?id=a0mFRgadGO)] [[Website](https://clvrai.github.io/boss/)]
