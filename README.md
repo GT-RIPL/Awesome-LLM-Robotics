@@ -29,16 +29,16 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Reasoning
-* **AHA**: "AHA: A Vision-Language-Model for Detecting and Reasoning over Failures in Robotic Manipulation", *arXiv, Oct 1*. [[Paper](https://arxiv.org/pdf/2410.00371)] [[Code](https://aha-vlm.github.io/)] [[Website](https://aha-vlm.github.io/)]
-* **ReKep**: "ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation", *arXiv, Sep 2024*. [[Paper](https://rekep-robot.github.io/rekep.pdf)] [[Code](https://github.com/huangwl18/ReKep)] [[Website](https://rekep-robot.github.io)]
+* **AHA**: "AHA: A Vision-Language-Model for Detecting and Reasoning over Failures in Robotic Manipulation", *arXiv, Oct 1*. [[Paper](https://arxiv.org/abs/2410.00371)] [[Website](https://aha-vlm.github.io/)]
+* **ReKep**: "ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation", *arXiv, Sep 2024*. [[Paper](https://arxiv.org/abs/2409.01652)] [[Code](https://github.com/huangwl18/ReKep)] [[Website](https://rekep-robot.github.io)]
 * **CLEAR**: "Language, Camera, Autonomy! Prompt-engineered Robot Control for Rapidly Evolving Deployment", *ACM/IEEE International Conference on Human-Robot Interaction (HRI), Mar 2024*. [[Paper](https://dl.acm.org/doi/10.1145/3610978.3640671)] [[Code](https://github.com/MITLL-CLEAR)]
 * **MoMa-LLM**: "Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation", *arXiv, Mar 2024*. [[Paper](https://arxiv.org/abs/2403.08605)] [[Code](https://github.com/robot-learning-freiburg/MoMa-LLM)] [[Website](http://moma-llm.cs.uni-freiburg.de/)]
-* **AutoRT**: "Embodied Foundation Models for Large Scale Orchestration of Robotic Agents", *arXiv, Jan 2024*. [[Paper](https://auto-rt.github.io/static/pdf/AutoRT.pdf)] [[Website](https://auto-rt.github.io/)]
+* **AutoRT**: "Embodied Foundation Models for Large Scale Orchestration of Robotic Agents", *arXiv, Jan 2024*. [[Paper](https://arxiv.org/abs/2401.12963)] [[Website](https://auto-rt.github.io/)]
 * **LEO**: "An Embodied Generalist Agent in 3D World", *arXiv, Nov 2023*. [[Paper](https://arxiv.org/abs/2311.12871)] [[Code](https://github.com/embodied-generalist/embodied-generalist)] [[Website](https://embodied-generalist.github.io/)]
 * **Robogen**: "A generative and self-guided robotic agent that endlessly propose and master new skills.", *arXiv, Nov 2023*. [[Paper](https://arxiv.org/abs/2311.01455)] [[Code](https://github.com/Genesis-Embodied-AI/RoboGen)] [[Website](https://robogen-ai.github.io/)]
 * **SayPlan**: "Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning", *Conference on Robot Learning (CoRL), Nov 2023*. [[Paper](https://arxiv.org/abs/2307.06135)] [[Website](https://sayplan.github.io/)]
 * **[LLaRP]** "Large Language Models as Generalizable Policies for Embodied Tasks", *arXiv, Oct 2023*. [[Paper](https://arxiv.org/abs/2310.17722)] [[Website](https://llm-rl.github.io)]
-* **[RT-X]** "Open X-Embodiment: Robotic Learning Datasets and RT-X Models", *arXiv, July 2023*. [[Paper](https://robotics-transformer-x.github.io/paper.pdf)] [[Website](https://robotics-transformer-x.github.io/)]
+* **[RT-X]** "Open X-Embodiment: Robotic Learning Datasets and RT-X Models", *arXiv, July 2023*. [[Paper](https://arxiv.org/abs/2310.08864)] [[Website](https://robotics-transformer-x.github.io/)]
 * **[RT-2]** "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control", *arXiv, July 2023*. [[Paper](https://arxiv.org/abs/2307.15818)] [[Website](https://robotics-transformer2.github.io/)]
 * **Instruct2Act**: "Mapping Multi-modality Instructions to Robotic Actions with Large Language Model", *arXiv, May 2023*. [[Paper](https://arxiv.org/abs/2305.11176)]  [[Pytorch Code](https://github.com/OpenGVLab/Instruct2Act)]
 * **TidyBot**: "Personalized Robot Assistance with Large Language Models",  *arXiv, May 2023*. [[Paper](https://arxiv.org/abs/2305.05658)] [[Pytorch Code](https://github.com/jimmyyhwu/tidybot/tree/main/robot)] [[Website](https://tidybot.cs.princeton.edu/)]
@@ -59,9 +59,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ---
 ## Planning
 * **Wonderful Team**: "Solving Robotics Problems in Zero-Shot with Vision-Language Models", *arXiv, Jul 2024*. [[Paper](https://www.arxiv.org/abs/2407.19094)] [[Code](https://github.com/wonderful-team-robotics/wonderful_team_robotics)] [[Website](https://wonderful-team-robotics.github.io/)]
-* "Embodied AI in Mobile Robots: Coverage Path Planning with Large Language Models", *arXiV, Jul 2024*, [[Paper](https://arxiv.org/abs/2407.02220)]
-* **FLTRNN**: "FLTRNN: Faithful Long-Horizon Task Planning for Robotics with Large Language Models", ICRA May 17th 2024, [[Paper](https://tannl.github.io/FLTRNN.github.io/FLTRNN_Faithful_Long_Horizon_Task_Planning_for_Robotics_with_Large_Language_Models.pdf)] [[Code](https://github.com/tannl/FLTRNN.github.io)] [[Website](https://tannl.github.io/FLTRNN.github.io/)]
 * **Embodied AI in Mobile Robots**: Coverage Path Planning with Large Language Models", *arXiV, Jul 2024*, [[Paper](https://arxiv.org/abs/2407.02220)]
+* **FLTRNN**: "FLTRNN: Faithful Long-Horizon Task Planning for Robotics with Large Language Models", *ICRA, May 17th 2024*, [[Paper](https://ieeexplore.ieee.org/document/10611663)] [[Code](https://github.com/tannl/FLTRNN)] [[Website](https://tannl.github.io/FLTRNN.github.io/)]
 * **LLM-Personalize**: "LLM-Personalize: Aligning LLM Planners with Human Preferences via Reinforced Self-Training for Housekeeping Robots", *arXiv, Apr 2024*. [[Paper](https://arxiv.org/abs/2404.14285)] [[Website](https://donggehan.github.io/projectllmpersonalize/)] [[Code](https://github.com/donggehan/codellmpersonalize/)]
 * **LLM3**: "LLM3: Large Language Model-based Task and Motion Planning with Motion Failure Reasoning", *IROS, Mar 2024*. [[Paper](https://arxiv.org/abs/2403.11552)][[Code](https://github.com/AssassinWS/LLM-TAMP)]
 * **BTGenBot**: "BTGenBot: Behavior Tree Generation for Robotic Tasks with Lightweight LLMs", *arXiv, March 2024*. [[Paper](https://arxiv.org/abs/2403.12761)][[Github](https://github.com/AIRLab-POLIMI/BTGenBot)]
@@ -105,8 +104,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Manipulation
-* **Manipulate-Anything**: "Manipulate-Anything: Automating Real-World Robots using Vision-Language Models", *CoRL, Nov 2024*. [[Paper](https://robot-ma.github.io/MA_paper.pdf)] [[Code](https://robot-ma.github.io/)] [[Website](https://robot-ma.github.io/)]
-* **Plan-Seq-Learn**:"Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks", *ICLR, May 2024*. [[Paper](https://arxiv.org/pdf/2405.01534)], [[PyTorch Code](https://github.com/mihdalal/planseqlearn)] [[Website](https://mihdalal.github.io/planseqlearn/)]
+* **Manipulate-Anything**: "Manipulate-Anything: Automating Real-World Robots using Vision-Language Models", *CoRL, Nov 2024*. [[Paper](https://arxiv.org/abs/2406.18915)] [[Website](https://robot-ma.github.io/)]
+* **Plan-Seq-Learn**:"Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks", *ICLR, May 2024*. [[Paper](https://arxiv.org/abs/2405.01534)], [[PyTorch Code](https://github.com/mihdalal/planseqlearn)] [[Website](https://mihdalal.github.io/planseqlearn/)]
 * **ManipVQA**:"ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models", *arXiv, Mar 2024*, [[Paper](https://arxiv.org/abs/2403.11289)] [[PyTorch Code](https://github.com/SiyuanHuang95/ManipVQA)] 
 * **BOSS**: "Bootstrap Your Own Skills: Learning to Solve New Tasks with LLM Guidance", *CoRL, Nov 2023*. [[Paper](https://openreview.net/forum?id=a0mFRgadGO)] [[Website](https://clvrai.github.io/boss/)]
 * **Octopus**:"Octopus: Embodied Vision-Language Programmer from Environmental Feedback", *arXiv, Oct 2023*, [[Paper](https://arxiv.org/abs/2310.08588)] [[PyTorch Code](https://github.com/dongyh20/Octopus)] [[Website](https://choiszt.github.io/Octopus/)]
@@ -117,10 +116,10 @@ If you find this repository useful, please consider [citing](#citation) and STAR
  * **VoxPoser**:"VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models", *arXiv, Jul 2023*. [[Paper](https://arxiv.org/abs/2307.05973)] [[Website](https://voxposer.github.io/)]
  * **LIV**:"LIV: Language-Image Representations and Rewards for Robotic Control", *arXiv, Jun 2023*, [[Paper](https://arxiv.org/abs/2306.00958)] [[Pytorch Code](https://github.com/penn-pal-lab/LIV)] [[Website](https://penn-pal-lab.github.io/LIV/)]
  * "Language Instructed Reinforcement Learning for Human-AI Coordination", *arXiv, Jun 2023*. [[Paper](https://arxiv.org/abs/2304.07297)] 
-* **RoboCat**: "RoboCat: A self-improving robotic agent", *arxiv, Jun 2023*. [[Paper/PDF](https://arxiv.org/abs/2306.11706)]  [[Website](https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent)]
+* **RoboCat**: "RoboCat: A self-improving robotic agent", *arxiv, Jun 2023*. [[Paper](https://arxiv.org/abs/2306.11706)]  [[Website](https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent)]
 * **SPRINT**: "SPRINT: Semantic Policy Pre-training via Language Instruction Relabeling", *arxiv, June 2023*. [[Paper](https://arxiv.org/abs/2306.11886)] [[Website](https://clvrai.github.io/sprint/)]
 * **Grasp Anything**: "Pave the Way to Grasp Anything: Transferring Foundation Models for Universal Pick-Place Robots", *arxiv, June 2023*. [[Paper](https://arxiv.org/abs/2306.05716)]
-* **LLM-GROP**:"Task and Motion Planning with Large Language Models for Object Rearrangement", *arXiv, May 2023*. [[Paper](https://arxiv.org/pdf/2303.06247)] [[Website](https://sites.google.com/view/llm-grop)]
+* **LLM-GROP**:"Task and Motion Planning with Large Language Models for Object Rearrangement", *arXiv, May 2023*. [[Paper](https://arxiv.org/abs/2303.06247)] [[Website](https://sites.google.com/view/llm-grop)]
 * **VOYAGER**:"VOYAGER: An Open-Ended Embodied Agent with Large Language Models", *arXiv, May 2023*. [[Paper](https://arxiv.org/abs/2305.16291)] [[Pytorch Code](https://github.com/MineDojo/Voyager)] [[Website](https://voyager.minedojo.org/)]
 * **TIP**: "Multimodal Procedural Planning via Dual Text-Image Prompting", *arXiV, May 2023*, [[Paper](https://arxiv.org/abs/2305.01795)]
 * **ProgramPort**:"Programmatically Grounded, Compositionally Generalizable Robotic Manipulation", *ICLR, Apr 2023*, [[Paper](https://arxiv.org/abs/2304.13826)] [[Website] (https://progport.github.io/)]
@@ -132,7 +131,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **DEPS**:"Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents", *arXiv, Feb 2023*. [[Paper](https://arxiv.org/abs/2302.01560)] [[Pytorch Code](https://github.com/CraftJarvis/MC-Planner)]
 * **LILAC**:"No, to the Right – Online Language Corrections for Robotic Manipulation via Shared Autonomy", *arXiv, Jan 2023*, [[Paper](https://arxiv.org/abs/2301.02555)] [[Pytorch Code](https://github.com/Stanford-ILIAD/lilac)]
 * **DIAL**:"Robotic Skill Acquistion via Instruction Augmentation with Vision-Language Models", *arXiv, Nov 2022*, [[Paper](https://arxiv.org/abs/2211.11736)] [[Website](https://instructionaugmentation.github.io/)]
-* **Gato**: "A Generalist Agent", *TMLR, Nov 2022*. [[Paper/PDF](https://openreview.net/pdf?id=1ikK0kHjvj)]  [[Website](https://www.deepmind.com/publications/a-generalist-agent)]
+* **Gato**: "A Generalist Agent", *TMLR, Nov 2022*. [[Paper](https://arxiv.org/abs/2205.06175)]  [[Website](https://www.deepmind.com/publications/a-generalist-agent)]
 * **NLMap**:"Open-vocabulary Queryable Scene Representations for Real World Planning", *arXiv, Sep 2022*, [[Paper](https://arxiv.org/abs/2209.09874)] [[Website](https://nlmap-saycan.github.io/)]
 * **R3M**:"R3M: A Universal Visual Representation for Robot Manipulation", *arXiv, Nov 2022*, [[Paper](https://arxiv.org/abs/2203.12601)] [[Pytorch Code](https://github.com/facebookresearch/r3m)] [[Website](https://tinyurl.com/robotr3m)]
 * **CLIP-Fields**:"CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory", *arXiv, Oct 2022*, [[Paper](https://arxiv.org/abs/2210.05663)] [[PyTorch Code](https://github.com/notmahi/clip-fields)] [[Website](https://mahis.life/clip-fields/)]
@@ -149,7 +148,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Instructions and Navigation
-* **Navid**: "NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation", *arxiv, Mar 2024* [[Paper](https://arxiv.org/pdf/2402.15852.pdf)] [[Website](https://pku-epic.github.io/NaVid)]
+* **Navid**: "NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation", *arxiv, Mar 2024* [[Paper](https://arxiv.org/abs/2402.15852)] [[Website](https://pku-epic.github.io/NaVid)]
 * **OVSG**: "Context-Aware Entity Grounding with Open-Vocabulary 3D Scene Graphs", *CoRL, Nov 2023*. [[Paper](https://openreview.net/forum?id=cjEI5qXoT0)] [[Code](https://github.com/changhaonan/OVSG)] [[Website](https://ovsg-l.github.io/)]
 * **VLMaps**: "Visual Language Maps for Robot Navigation", *arXiv, Mar 2023*. [[Paper](https://arxiv.org/abs/2210.05714)] [[Pytorch Code](https://github.com/vlmaps/vlmaps)] [[Website](https://vlmaps.github.io/)]
 * "Interactive Language: Talking to Robots in Real Time", *arXiv, Oct 2022* [[Paper](https://arxiv.org/abs/2210.06407)] [[Website](https://interactive-language.github.io/)]
@@ -170,7 +169,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
  * **BEHAVIOR**: "BEHAVIOR: Benchmark for Everyday Household Activities in Virtual, Interactive, and Ecological Environments", *CoRL, Nov 2021*. [[Paper](https://arxiv.org/abs/2108.03332)] [[Code](https://github.com/StanfordVL/behavior)] [[Website](https://behavior.stanford.edu/)]
  * **iGibson 1.0**: "iGibson 1.0: a Simulation Environment for Interactive Tasks in Large Realistic Scenes", *IROS, Sep 2021*. [[Paper](https://arxiv.org/abs/2012.02924)] [[Code](https://github.com/StanfordVL/iGibson)] [[Website](https://svl.stanford.edu/igibson/)]
  * **ALFRED**: "ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks", *CVPR, Jun 2020*. [[Paper](https://arxiv.org/abs/1912.01734)] [[Code](https://github.com/askforalfred/alfred)] [[Website](https://askforalfred.com/)]
-  * **BabyAI**: "BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning", *ICLR, May 2019*. [[Paper](https://openreview.net/pdf?id=rJeXCo0cYX)] [[Code](https://github.com/mila-iqia/babyai/tree/iclr19)]
+  * **BabyAI**: "BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning", *ICLR, May 2019*. [[https://arxiv.org/abs/1810.08272)] [[Code](https://github.com/mila-iqia/babyai/tree/iclr19)]
 
 ---
 ## Safety, Risks, Red Teaming, and Adversarial Testing
