@@ -57,7 +57,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Planning
-* **WonderfulTeam**: "Solving Robotics Problems in Zero-Shot with Vision-Language Models", *arXiv, Jul 2024*. [[Paper](https://www.arxiv.org/abs/2407.19094)] [[Code](https://github.com/wonderful-team-robotics/wonderful_team_robotics)] [[Website](https://wonderful-team-robotics.github.io/)]
+* **Wonderful Team**: "Solving Robotics Problems in Zero-Shot with Vision-Language Models", *arXiv, Jul 2024*. [[Paper](https://www.arxiv.org/abs/2407.19094)] [[Code](https://github.com/wonderful-team-robotics/wonderful_team_robotics)] [[Website](https://wonderful-team-robotics.github.io/)]
 * "Embodied AI in Mobile Robots: Coverage Path Planning with Large Language Models", *arXiV, Jul 2024*, [[Paper](https://arxiv.org/abs/2407.02220)]
 * **LLM-Personalize**: "LLM-Personalize: Aligning LLM Planners with Human Preferences via Reinforced Self-Training for Housekeeping Robots", *arXiv, Apr 2024*. [[Paper](https://arxiv.org/abs/2404.14285)] [[Website](https://donggehan.github.io/projectllmpersonalize/)] [[Code](https://github.com/donggehan/codellmpersonalize/)]
 * **LLM3**: "LLM3: Large Language Model-based Task and Motion Planning with Motion Failure Reasoning", *IROS, Mar 2024*. [[Paper](https://arxiv.org/abs/2403.11552)][[Code](https://github.com/AssassinWS/LLM-TAMP)]
