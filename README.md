@@ -58,6 +58,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Planning
+* **LABOR Agent**: "Large Language Models for Orchestrating Bimanual Robots", Humanoids, Nov. 2024. [[Paper](https://arxiv.org/abs/2404.02018)] [[Website](https://labor-agent.github.io/)], [[Code](https://github.com/Kchu/LABOR-Agent)]
 * **Wonderful Team**: "Solving Robotics Problems in Zero-Shot with Vision-Language Models", *arXiv, Jul 2024*. [[Paper](https://www.arxiv.org/abs/2407.19094)] [[Code](https://github.com/wonderful-team-robotics/wonderful_team_robotics)] [[Website](https://wonderful-team-robotics.github.io/)]
 * **Embodied AI in Mobile Robots**: Coverage Path Planning with Large Language Models", *arXiV, Jul 2024*, [[Paper](https://arxiv.org/abs/2407.02220)]
 * **FLTRNN**: "FLTRNN: Faithful Long-Horizon Task Planning for Robotics with Large Language Models", *ICRA, May 17th 2024*, [[Paper](https://ieeexplore.ieee.org/document/10611663)] [[Code](https://github.com/tannl/FLTRNN)] [[Website](https://tannl.github.io/FLTRNN.github.io/)]
@@ -108,6 +109,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **Plan-Seq-Learn**:"Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks", *ICLR, May 2024*. [[Paper](https://arxiv.org/abs/2405.01534)], [[PyTorch Code](https://github.com/mihdalal/planseqlearn)] [[Website](https://mihdalal.github.io/planseqlearn/)]
 * **ManipVQA**:"ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models", *arXiv, Mar 2024*, [[Paper](https://arxiv.org/abs/2403.11289)] [[PyTorch Code](https://github.com/SiyuanHuang95/ManipVQA)] 
 * **BOSS**: "Bootstrap Your Own Skills: Learning to Solve New Tasks with LLM Guidance", *CoRL, Nov 2023*. [[Paper](https://openreview.net/forum?id=a0mFRgadGO)] [[Website](https://clvrai.github.io/boss/)]
+* **Lafite-RL**: "Accelerating Reinforcement Learning of Robotic Manipulations via Feedback from Large Language Models", *CoRL Workshop, Nov 2023*. [[Paper](https://arxiv.org/abs/2311.02379)]
 * **Octopus**:"Octopus: Embodied Vision-Language Programmer from Environmental Feedback", *arXiv, Oct 2023*, [[Paper](https://arxiv.org/abs/2310.08588)] [[PyTorch Code](https://github.com/dongyh20/Octopus)] [[Website](https://choiszt.github.io/Octopus/)]
 * **[Text2Reward]** "Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning", *arXiv, Sep 2023*, [[Paper](https://arxiv.org/abs/2309.11489)] [[Website](https://text-to-reward.github.io/)]
 * **PhysObjects**: "Physically Grounded Vision-Language Models for Robotic Manipulation", *arxiv, Sept 2023*. [[Paper](https://arxiv.org/abs/2309.02561)]
