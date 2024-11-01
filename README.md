@@ -61,6 +61,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ---
 ## Planning
 * **LABOR Agent**: "Large Language Models for Orchestrating Bimanual Robots", Humanoids, Nov. 2024. [[Paper](https://arxiv.org/abs/2404.02018)] [[Website](https://labor-agent.github.io/)], [[Code](https://github.com/Kchu/LABOR-Agent)]
+* **SELP**: "SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models", *arXiv, Sept 2024*. [[Paper](https://arxiv.org/abs/2409.19471)]
 * **Wonderful Team**: "Solving Robotics Problems in Zero-Shot with Vision-Language Models", *arXiv, Jul 2024*. [[Paper](https://www.arxiv.org/abs/2407.19094)] [[Code](https://github.com/wonderful-team-robotics/wonderful_team_robotics)] [[Website](https://wonderful-team-robotics.github.io/)]
 * **Embodied AI in Mobile Robots**: Coverage Path Planning with Large Language Models", *arXiV, Jul 2024*, [[Paper](https://arxiv.org/abs/2407.02220)]
 * **FLTRNN**: "FLTRNN: Faithful Long-Horizon Task Planning for Robotics with Large Language Models", *ICRA, May 17th 2024*, [[Paper](https://ieeexplore.ieee.org/document/10611663)] [[Code](https://github.com/tannl/FLTRNN)] [[Website](https://tannl.github.io/FLTRNN.github.io/)]
