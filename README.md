@@ -29,6 +29,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Reasoning
+* **Meta-Control**: "Meta-Control: Automatic Model-based Control System Synthesis for Heterogeneous Robot Skills", *CoRL, Nov 2024*. [[Paper](https://arxiv.org/abs/2405.11380)] [[Website](https://meta-control-paper.github.io/)]
 * **AHA**: "AHA: A Vision-Language-Model for Detecting and Reasoning over Failures in Robotic Manipulation", *arXiv, Oct 1*. [[Paper](https://arxiv.org/abs/2410.00371)] [[Website](https://aha-vlm.github.io/)]
 * **ReKep**: "ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation", *arXiv, Sep 2024*. [[Paper](https://arxiv.org/abs/2409.01652)] [[Code](https://github.com/huangwl18/ReKep)] [[Website](https://rekep-robot.github.io)]
 * **Octopi**: "Octopi: Object Property Reasoning with Large Tactile-Language Models", *Robotics: Science and Systems (RSS), June 24*. [[Paper](https://arxiv.org/abs/2405.02794)] [[Code](https://github.com/clear-nus/octopi)] [[Website](https://octopi-tactile-lvlm.github.io/)]
@@ -108,6 +109,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Manipulation
+* **Meta-Control**: "Meta-Control: Automatic Model-based Control System Synthesis for Heterogeneous Robot Skills", *CoRL, Nov 2024*. [[Paper](https://arxiv.org/abs/2405.11380)] [[Website](https://meta-control-paper.github.io/)]
 * **A3VLM**: "A3VLM: Actionable Articulation-Aware Vision Language Model", *CoRL, Nov 2024*. [[Paper](https://arxiv.org/abs/2406.07549)] [[PyTorch Code](https://github.com/changhaonan/A3VLM)]
 * **Manipulate-Anything**: "Manipulate-Anything: Automating Real-World Robots using Vision-Language Models", *CoRL, Nov 2024*. [[Paper](https://arxiv.org/abs/2406.18915)] [[Website](https://robot-ma.github.io/)]
 * **RobiButler**: "RobiButler: Remote Multimodal Interactions with Household Robot Assistant", *arXiv, Sept 2024*. [[Paper](https://arxiv.org/abs/2409.20548)] [[Website](https://robibutler.github.io/)]
