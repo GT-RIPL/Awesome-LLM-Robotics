@@ -9,12 +9,16 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ---
 ## Overview
 
+- [Awesome-LLM-Robotics ](#awesome-llm-robotics-)
+      - [Please feel free to send me pull requests or email to add papers! ](#please-feel-free-to-send-me-pull-requests-or-email-to-add-papers-)
+  - [Overview](#overview)
   - [Surveys](#surveys)
   - [Reasoning](#reasoning)
   - [Planning](#planning)
   - [Manipulation](#manipulation)
   - [Instructions and Navigation](#instructions-and-navigation)
   - [Simulation Frameworks](#simulation-frameworks)
+  - [Safety, Risks, Red Teaming, and Adversarial Testing](#safety-risks-red-teaming-and-adversarial-testing)
   - [Citation](#citation)
 
 ---
@@ -67,7 +71,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **FLTRNN**: "FLTRNN: Faithful Long-Horizon Task Planning for Robotics with Large Language Models", *ICRA, May 17th 2024*, [[Paper](https://ieeexplore.ieee.org/document/10611663)] [[Code](https://github.com/tannl/FLTRNN)] [[Website](https://tannl.github.io/FLTRNN.github.io/)]
 * **LLM-Personalize**: "LLM-Personalize: Aligning LLM Planners with Human Preferences via Reinforced Self-Training for Housekeeping Robots", *arXiv, Apr 2024*. [[Paper](https://arxiv.org/abs/2404.14285)] [[Website](https://donggehan.github.io/projectllmpersonalize/)] [[Code](https://github.com/donggehan/codellmpersonalize/)]
 * **LLM3**: "LLM3: Large Language Model-based Task and Motion Planning with Motion Failure Reasoning", *IROS, Mar 2024*. [[Paper](https://arxiv.org/abs/2403.11552)][[Code](https://github.com/AssassinWS/LLM-TAMP)]
-* **BTGenBot**: "BTGenBot: Behavior Tree Generation for Robotic Tasks with Lightweight LLMs", *arXiv, March 2024*. [[Paper](https://arxiv.org/abs/2403.12761)][[Github](https://github.com/AIRLab-POLIMI/BTGenBot)]
+* **BTGenBot**: "BTGenBot: Behavior Tree Generation for Robotic Tasks with Lightweight LLMs", *IROS, Mar 2024*. [[Paper](https://ieeexplore.ieee.org/document/10802304)][[Github](https://github.com/AIRLab-POLIMI/BTGenBot)]
 * **Attentive Support**: "To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions", *arXiv, March 2024*. [[Paper](https://arxiv.org/abs/2403.12533)] [[Website](https://hri-eu.github.io/AttentiveSupport/)][[Code](https://github.com/HRI-EU/AttentiveSupport)]
 * **Beyond Text**: "Beyond Text: Improving LLM's Decision Making for Robot Navigation via Vocal Cues", *arxiv, Feb 2024*. [[Paper](https://arxiv.org/abs/2402.03494)]
 * **SayCanPay**: "SayCanPay: Heuristic Planning with Large Language Models Using Learnable Domain Knowledge", AAAI Jan 2024, [[Paper](https://arxiv.org/abs/2308.12682)] [[Code](https://github.com/RishiHazra/saycanpay)] [[Website](https://rishihazra.github.io/SayCanPay/)]
