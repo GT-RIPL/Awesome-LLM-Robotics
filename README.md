@@ -30,6 +30,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * "Foundation Models in Robotics: Applications, Challenges, and the Future", *arXiv, Dec 2023*, [[Paper](https://arxiv.org/abs/2312.07843)] [[Paper List](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)]
 * "Robot Learning in the Era of Foundation Models: A Survey", *arXiv, Nov 2023*, [[Paper](https://arxiv.org/abs/2311.14379)]
 * "The Development of LLMs for Embodied Navigation", *arXiv, Nov 2023*, [[Paper](https://arxiv.org/abs/2311.00530)]
+* "On the Prospects of Incorporating Large Language Models (LLMs) in Automated Planning and Scheduling (APS)", *ICAPS, May 2024*, [[Paper]](https://ojs.aaai.org/index.php/ICAPS/article/view/31503) [[Website]](https://ai4society.github.io/LLM-Planning-Viz/)
 
 ---
 ## Reasoning
