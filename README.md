@@ -64,6 +64,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Planning
+* **LLM+MAP**: "LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language", *arxiv, Mar 2025*. [[Paper](https://arxiv.org/abs/2503.17309)] [[Code](https://github.com/Kchu/LLM-MAP)]
 * **Code-as-Monitor**: "Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection", CVPR, 2025. [[Paper](https://arxiv.org/abs/2412.04455)] [[Project](https://zhoues.github.io/Code-as-Monitor/)]
 * **LABOR Agent**: "Large Language Models for Orchestrating Bimanual Robots", Humanoids, Nov. 2024. [[Paper](https://arxiv.org/abs/2404.02018)] [[Website](https://labor-agent.github.io/)], [[Code](https://github.com/Kchu/LABOR-Agent)]
 * **SELP**: "SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models", *arXiv, Sept 2024*. [[Paper](https://arxiv.org/abs/2409.19471)]
