@@ -2,7 +2,7 @@
 
 This repo contains a curative list of **papers using Large Language/Multi-Modal Models for Robotics/RL**. Template from [awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) <br>
 
-#### Please feel free to send me [pull requests](https://github.com/GT-RIPL/Awesome-LLM-Robotics/blob/main/how-to-PR.md) or [email](mailto:zkira-changetoat-gatech--changetodot-changetoedu) to add papers! <br>
+#### Please feel free to send me [pull requests](https://github.com/GT-RIPL/Awesome-LLM-Robotics/blob/main/how-to-PR.md) or [email](mailto:zkira-changetoat-gatech--changetodot-changetoedu) to add papers! Please make sure to put in reverse chronological order and follow the format carefully! <br>
 
 If you find this repository useful, please consider [citing](#citation) and STARing this list. Feel free to share this list with others!
 
@@ -34,7 +34,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Reasoning
-* **AHA**: "AHA: A Vision-Language-Model for Detecting and Reasoning over Failures in Robotic Manipulation", *arXiv, Oct 1*. [[Paper](https://arxiv.org/abs/2410.00371)] [[Website](https://aha-vlm.github.io/)]
+* **ELLMER**: "Embodied large language models enable robots to complete long-horizon tasks in unpredictable settings", *Nature Machine Intelligence, Mar 2025*. [[Paper](https://www.nature.com/articles/s42256-025-01005-x)] [[Website](https://www.nature.com/articles/s42256-025-01005-x)]
+* **AHA**: "AHA: A Vision-Language-Model for Detecting and Reasoning over Failures in Robotic Manipulation", *arXiv, Oct 2024*. [[Paper](https://arxiv.org/abs/2410.00371)] [[Website](https://aha-vlm.github.io/)]
 * **ReKep**: "ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation", *arXiv, Sep 2024*. [[Paper](https://arxiv.org/abs/2409.01652)] [[Code](https://github.com/huangwl18/ReKep)] [[Website](https://rekep-robot.github.io)]
 * **Octopi**: "Octopi: Object Property Reasoning with Large Tactile-Language Models", *Robotics: Science and Systems (RSS), June 24*. [[Paper](https://arxiv.org/abs/2405.02794)] [[Code](https://github.com/clear-nus/octopi)] [[Website](https://octopi-tactile-lvlm.github.io/)]
 * **CLEAR**: "Language, Camera, Autonomy! Prompt-engineered Robot Control for Rapidly Evolving Deployment", *ACM/IEEE International Conference on Human-Robot Interaction (HRI), Mar 2024*. [[Paper](https://dl.acm.org/doi/10.1145/3610978.3640671)] [[Code](https://github.com/MITLL-CLEAR)]
@@ -62,7 +63,6 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **PIGLeT**: "PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World", *ACL, Jun 2021*. [[Paper](https://arxiv.org/abs/2201.07207)] [[Pytorch Code](http://github.com/rowanz/piglet)] [[Website](https://rowanzellers.com/piglet/)]
 * **Say-Can**: "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances", *arXiv, Apr 2021*. [[Paper](https://arxiv.org/abs/2204.01691)]  [[Colab](https://say-can.github.io/#open-source)] [[Website](https://say-can.github.io/)]
 * **Socratic**: "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language", *arXiv, Apr 2021*. [[Paper](https://arxiv.org/abs/2204.00598)] [[Pytorch Code](https://socraticmodels.github.io/#code)] [[Website](https://socraticmodels.github.io/)]
-* **ELLMER**: "Embodied large language models enable robots to complete long-horizon tasks in unpredictable settings", *Nature Machine Intelligence, Mar 2025*. [[Paper](https://www.nature.com/articles/s42256-025-01005-x)] [[Website](https://www.nature.com/articles/s42256-025-01005-x)]
 
 ---
 ## Planning
@@ -194,11 +194,11 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Safety, Risks, Red Teaming, and Adversarial Testing
+* **Safe LLM-Controlled Robots with Formal Guarantees via Reachability Analysis** *arXiv, Mar 2025* [[arXiv](https://arxiv.org/abs/2503.03911)] [[Code](https://github.com/TUM-CPS-HN/SafeLLMRA)]
 * **LLM-Driven Robots Risk Enacting Discrimination, Violence, and Unlawful Actions**: *arXiv, Jun 2024*. [[Paper](https://arxiv.org/abs/2406.08824)]
 * **Highlighting the Safety Concerns of Deploying LLMs/VLMs in Robotics**: *arXiv, Feb 2024*. [[Paper](https://arxiv.org/abs/2402.10340)]
 * **Robots Enact Malignant Stereotypes**: *FAccT, Jun 2022*. [[arXiv](https://arxiv.org/abs/2207.11569)] [[DOI](https://doi.org/10.1145/3531146.3533138)] [[Code](https://github.com/ahundt/RobotsEnactMalignantStereotypes)] [[Website](https://sites.google.com/view/robots-enact-stereotypes/home)]
 * **Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics** *arXiv, Nov 2024* [[arXiv](https://arxiv.org/abs/2411.13587)] [[Code](https://github.com/William-wAng618/roboticAttack)] [[Website](https://vlaattacker.github.io/)]
-* **Safe LLM-Controlled Robots with Formal Guarantees via Reachability Analysis** *arXiv, Mar 2025* [[arXiv](https://arxiv.org/abs/2503.03911)] [[Code](https://github.com/TUM-CPS-HN/SafeLLMRA)]
 
 ----
 ## Citation
