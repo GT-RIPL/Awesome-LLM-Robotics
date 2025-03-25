@@ -61,6 +61,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **PIGLeT**: "PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World", *ACL, Jun 2021*. [[Paper](https://arxiv.org/abs/2201.07207)] [[Pytorch Code](http://github.com/rowanz/piglet)] [[Website](https://rowanzellers.com/piglet/)]
 * **Say-Can**: "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances", *arXiv, Apr 2021*. [[Paper](https://arxiv.org/abs/2204.01691)]  [[Colab](https://say-can.github.io/#open-source)] [[Website](https://say-can.github.io/)]
 * **Socratic**: "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language", *arXiv, Apr 2021*. [[Paper](https://arxiv.org/abs/2204.00598)] [[Pytorch Code](https://socraticmodels.github.io/#code)] [[Website](https://socraticmodels.github.io/)]
+* **ELLMER**: "Embodied large language models enable robots to complete long-horizon tasks in unpredictable settings", *Nature Machine Intelligence, Mar 2025*. [[Paper](https://www.nature.com/articles/s42256-025-01005-x)] [[Website](https://www.nature.com/articles/s42256-025-01005-x)]
 
 ---
 ## Planning
