@@ -34,6 +34,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Reasoning
+* **SPINE**: "SPINE: Online Semantic Planning for Missions with Incomplete Natural Language Specifications in Unstructured Environments", *International Conference on Robotics and Automation (ICRA), May 2025*. [[Paper](https://arxiv.org/abs/2410.03035)] [[Website](https://zacravichandran.github.io/SPINE/)]
 * **ELLMER**: "Embodied large language models enable robots to complete long-horizon tasks in unpredictable settings", *Nature Machine Intelligence, Mar 2025*. [[Paper](https://www.nature.com/articles/s42256-025-01005-x)] [[Website](https://www.nature.com/articles/s42256-025-01005-x)]
 * **AHA**: "AHA: A Vision-Language-Model for Detecting and Reasoning over Failures in Robotic Manipulation", *arXiv, Oct 2024*. [[Paper](https://arxiv.org/abs/2410.00371)] [[Website](https://aha-vlm.github.io/)]
 * **ReKep**: "ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation", *arXiv, Sep 2024*. [[Paper](https://arxiv.org/abs/2409.01652)] [[Code](https://github.com/huangwl18/ReKep)] [[Website](https://rekep-robot.github.io)]
@@ -194,6 +195,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Safety, Risks, Red Teaming, and Adversarial Testing
+* **RoboPAIR**: "Jailbreaking LLM-Controlled Robots", *International Conference on Robotics and Automation (ICRA) May 2025*. [[Paper](https://arxiv.org/abs/2410.13691)] [Website](https://robopair.org/)]
 * **Safe LLM-Controlled Robots with Formal Guarantees via Reachability Analysis** *arXiv, Mar 2025* [[arXiv](https://arxiv.org/abs/2503.03911)] [[Code](https://github.com/TUM-CPS-HN/SafeLLMRA)]
 * **LLM-Driven Robots Risk Enacting Discrimination, Violence, and Unlawful Actions**: *arXiv, Jun 2024*. [[Paper](https://arxiv.org/abs/2406.08824)]
 * **Highlighting the Safety Concerns of Deploying LLMs/VLMs in Robotics**: *arXiv, Feb 2024*. [[Paper](https://arxiv.org/abs/2402.10340)]
