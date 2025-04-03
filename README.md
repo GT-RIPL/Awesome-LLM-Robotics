@@ -195,7 +195,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Safety, Risks, Red Teaming, and Adversarial Testing
-* **RoboPAIR**: "Jailbreaking LLM-Controlled Robots", *International Conference on Robotics and Automation (ICRA) May 2025*. [[Paper](https://arxiv.org/abs/2410.13691)] [Website](https://robopair.org/)]
+* **RoboPAIR**: "Jailbreaking LLM-Controlled Robots", *International Conference on Robotics and Automation (ICRA) May 2025*. [[Paper](https://arxiv.org/abs/2410.13691)] [[Website](https://robopair.org/)]
+* **RoboGuard**: "Safety Guardrails for LLM-Enabled Robots", *arXiv, April 2025*. [[Paper](https://arxiv.org/abs/2503.07885)] [[Website](https://robo-guard.github.io/)]
 * **Safe LLM-Controlled Robots with Formal Guarantees via Reachability Analysis** *arXiv, Mar 2025* [[arXiv](https://arxiv.org/abs/2503.03911)] [[Code](https://github.com/TUM-CPS-HN/SafeLLMRA)]
 * **LLM-Driven Robots Risk Enacting Discrimination, Violence, and Unlawful Actions**: *arXiv, Jun 2024*. [[Paper](https://arxiv.org/abs/2406.08824)]
 * **Highlighting the Safety Concerns of Deploying LLMs/VLMs in Robotics**: *arXiv, Feb 2024*. [[Paper](https://arxiv.org/abs/2402.10340)]
