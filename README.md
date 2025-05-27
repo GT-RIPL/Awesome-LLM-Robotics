@@ -68,9 +68,11 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Planning
+* **FLARE**: "Multi-Modal Grounded Planning and Efficient Replanning For Learning Embodied Agents with a Few Examples", *AAAI, Mar 2025*. [[Paper](https://arxiv.org/abs/2412.17288)] [[Code](https://github.com/snumprlab/flare)]
 * **LLM+MAP**: "LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language", *arxiv, Mar 2025*. [[Paper](https://arxiv.org/abs/2503.17309)] [[Code](https://github.com/Kchu/LLM-MAP)]
 * **Code-as-Monitor**: "Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection", CVPR, 2025. [[Paper](https://arxiv.org/abs/2412.04455)] [[Project](https://zhoues.github.io/Code-as-Monitor/)]
 * **LABOR Agent**: "Large Language Models for Orchestrating Bimanual Robots", Humanoids, Nov. 2024. [[Paper](https://arxiv.org/abs/2404.02018)] [[Website](https://labor-agent.github.io/)], [[Code](https://github.com/Kchu/LABOR-Agent)]
+* **PRED**: "Pre-emptive Action Revision by Environmental Feedback for Embodied Instruction Following Agents", *CoRL, Sept 2024*. [[Paper](https://openreview.net/pdf?id=cq2uB30uBM)] [[Code](https://github.com/snumprlab/pred)]
 * **SELP**: "SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models", *arXiv, Sept 2024*. [[Paper](https://arxiv.org/abs/2409.19471)]
 * **Wonderful Team**: "Solving Robotics Problems in Zero-Shot with Vision-Language Models", *arXiv, Jul 2024*. [[Paper](https://www.arxiv.org/abs/2407.19094)] [[Code](https://github.com/wonderful-team-robotics/wonderful_team_robotics)] [[Website](https://wonderful-team-robotics.github.io/)]
 * **Embodied AI in Mobile Robots**: Coverage Path Planning with Large Language Models", *arXiV, Jul 2024*, [[Paper](https://arxiv.org/abs/2407.02220)]
