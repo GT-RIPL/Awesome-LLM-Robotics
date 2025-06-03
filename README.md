@@ -34,7 +34,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Reasoning
-* **RoboSpatial**: "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics", CVPR, June 2025. [[Paper](https://arxiv.org/abs/2411.16537)] [[Code](https://github.com/NVlabs/RoboSpatial)] [[Website](https://chanh.ee/RoboSpatial/)]
+* **RoboSpatial**: "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics", *CVPR, June 2025*. [[Paper](https://arxiv.org/abs/2411.16537)] [[Code](https://github.com/NVlabs/RoboSpatial)] [[Website](https://chanh.ee/RoboSpatial/)]
+* **RobotxR1**: "RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop Reinforcement Learning", *arXiv, May 2025*. [[Paper](https://arxiv.org/abs/2505.03238)]
 * **SPINE**: "SPINE: Online Semantic Planning for Missions with Incomplete Natural Language Specifications in Unstructured Environments", *International Conference on Robotics and Automation (ICRA), May 2025*. [[Paper](https://arxiv.org/abs/2410.03035)] [[Website](https://zacravichandran.github.io/SPINE/)]
 * **ELLMER**: "Embodied large language models enable robots to complete long-horizon tasks in unpredictable settings", *Nature Machine Intelligence, Mar 2025*. [[Paper](https://www.nature.com/articles/s42256-025-01005-x)] [[Website](https://www.nature.com/articles/s42256-025-01005-x)]
 * **AHA**: "AHA: A Vision-Language-Model for Detecting and Reasoning over Failures in Robotic Manipulation", *arXiv, Oct 2024*. [[Paper](https://arxiv.org/abs/2410.00371)] [[Website](https://aha-vlm.github.io/)]
@@ -171,6 +172,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Instructions and Navigation
+* **LLMxRobot**: "Autonomous Driving Systems with On-Board LLMs", *RSS, Apr 2025* [[Paper](https://www.roboticsproceedings.org/rss21/p140.pdf)][[Code](https://github.com/ForzaETH/LLMxRobot)][[Website](https://www.youtube.com/watch?v=4iGN1uBl4v4)]
 * **GSON**: "GSON: A Group-based Social Navigation Framework with Large Multimodal Model", *arxiv, Sept 2024* [[Paper](https://arxiv.org/abs/2409.18084)]
 * **Navid**: "NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation", *arxiv, Mar 2024* [[Paper](https://arxiv.org/abs/2402.15852)] [[Website](https://pku-epic.github.io/NaVid)]
 * **OVSG**: "Context-Aware Entity Grounding with Open-Vocabulary 3D Scene Graphs", *CoRL, Nov 2023*. [[Paper](https://openreview.net/forum?id=cjEI5qXoT0)] [[Code](https://github.com/changhaonan/OVSG)] [[Website](https://ovsg-l.github.io/)]
