@@ -34,6 +34,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Reasoning
+* **RoboRefer**: "RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics", *arXiv, June 2025*. [[Paper](https://arxiv.org/abs/2506.04308)] [[Code](https://github.com/Zhoues/RoboRefer)] [[Website](https://zhoues.github.io/RoboRefer/)]
 * **RoboSpatial**: "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics", CVPR, June 2025. [[Paper](https://arxiv.org/abs/2411.16537)] [[Code](https://github.com/NVlabs/RoboSpatial)] [[Website](https://chanh.ee/RoboSpatial/)]
 * **SPINE**: "SPINE: Online Semantic Planning for Missions with Incomplete Natural Language Specifications in Unstructured Environments", *International Conference on Robotics and Automation (ICRA), May 2025*. [[Paper](https://arxiv.org/abs/2410.03035)] [[Website](https://zacravichandran.github.io/SPINE/)]
 * **ELLMER**: "Embodied large language models enable robots to complete long-horizon tasks in unpredictable settings", *Nature Machine Intelligence, Mar 2025*. [[Paper](https://www.nature.com/articles/s42256-025-01005-x)] [[Website](https://www.nature.com/articles/s42256-025-01005-x)]
