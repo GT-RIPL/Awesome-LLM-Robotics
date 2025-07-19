@@ -120,6 +120,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Manipulation
+* **RoboSpatial**: "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics", CVPR, June 2025. [[Paper](https://arxiv.org/abs/2411.16537)] [[Code](https://github.com/NVlabs/RoboSpatial)] [[Website](https://chanh.ee/RoboSpatial/)]
 * **Meta-Control**: "Meta-Control: Automatic Model-based Control System Synthesis for Heterogeneous Robot Skills", *CoRL, Nov 2024*. [[Paper](https://arxiv.org/abs/2405.11380)] [[Website](https://meta-control-paper.github.io/)]
 * **A3VLM**: "A3VLM: Actionable Articulation-Aware Vision Language Model", *CoRL, Nov 2024*. [[Paper](https://arxiv.org/abs/2406.07549)] [[PyTorch Code](https://github.com/changhaonan/A3VLM)]
 * **Manipulate-Anything**: "Manipulate-Anything: Automating Real-World Robots using Vision-Language Models", *CoRL, Nov 2024*. [[Paper](https://arxiv.org/abs/2406.18915)] [[Website](https://robot-ma.github.io/)]
@@ -171,6 +172,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Instructions and Navigation
+* **RoboSpatial**: "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics", CVPR, June 2025. [[Paper](https://arxiv.org/abs/2411.16537)] [[Code](https://github.com/NVlabs/RoboSpatial)] [[Website](https://chanh.ee/RoboSpatial/)]
 * **GSON**: "GSON: A Group-based Social Navigation Framework with Large Multimodal Model", *arxiv, Sept 2024* [[Paper](https://arxiv.org/abs/2409.18084)]
 * **Navid**: "NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation", *arxiv, Mar 2024* [[Paper](https://arxiv.org/abs/2402.15852)] [[Website](https://pku-epic.github.io/NaVid)]
 * **OVSG**: "Context-Aware Entity Grounding with Open-Vocabulary 3D Scene Graphs", *CoRL, Nov 2023*. [[Paper](https://openreview.net/forum?id=cjEI5qXoT0)] [[Code](https://github.com/changhaonan/OVSG)] [[Website](https://ovsg-l.github.io/)]
