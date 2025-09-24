@@ -122,6 +122,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Manipulation
+* **LLM-TALE**: "LLM-Guided Task- and Affordance-Level Exploration in Reinforcement Learning", *arXiv, Sep 2025*. [[Paper](https://arxiv.org/pdf/2509.16615)] [[Code](https://github.com/llm-tale/llm_tale)] [[Website](https://github.com/llm-tale/llm_tale)]
 * **RoboSpatial**: "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics", CVPR, June 2025. [[Paper](https://arxiv.org/abs/2411.16537)] [[Code](https://github.com/NVlabs/RoboSpatial)] [[Website](https://chanh.ee/RoboSpatial/)]
 * **Meta-Control**: "Meta-Control: Automatic Model-based Control System Synthesis for Heterogeneous Robot Skills", *CoRL, Nov 2024*. [[Paper](https://arxiv.org/abs/2405.11380)] [[Website](https://meta-control-paper.github.io/)]
 * **A3VLM**: "A3VLM: Actionable Articulation-Aware Vision Language Model", *CoRL, Nov 2024*. [[Paper](https://arxiv.org/abs/2406.07549)] [[PyTorch Code](https://github.com/changhaonan/A3VLM)]
@@ -224,3 +225,4 @@ If you find this repository useful, please consider citing this list:
     year = {2022},
 }
 ```
+
