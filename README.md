@@ -23,6 +23,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Surveys
+* "A Survey of Robotic Language Grounding: Tradeoffs between Symbols and Embeddings", *IJCAI, Aug 2024*, [[Paper]](https://arxiv.org/abs/2405.13245)
 * "A Superalignment Framework in Autonomous Driving with Large Language Models", *arXiv, Jun 2024*, [[Paper](https://arxiv.org/abs/2406.05651)]
 * "Neural Scaling Laws for Embodied AI", *arXiv, May 2024*. [[Paper](https://arxiv.org/abs/2405.14005)]
 * "On the Prospects of Incorporating Large Language Models (LLMs) in Automated Planning and Scheduling (APS)", *ICAPS, May 2024*, [[Paper]](https://ojs.aaai.org/index.php/ICAPS/article/view/31503) [[Website]](https://ai4society.github.io/LLM-Planning-Viz/)
