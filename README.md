@@ -123,6 +123,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Manipulation
+* **D2E**: "D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI", *arXiv, Oct 2025*. [[Paper](https://arxiv.org/abs/2510.05684)] [[Code](https://github.com/worv-ai/D2E)] [[Website](https://worv-ai.github.io/d2e/)]
 * **Prompt2Act**: "Prompt2Act: Mapping Prompts into Sequence of Robotic Actions with Large Foundation Models", *arxiv, Sep 2025*. [[Paper](https://arxiv.org/abs/2505.19789)] [[Code](https://github.com/Zero-coder/Prompt2Act)]
 * **RL4VLA**: "RL4VLA:What Can RL Bring to VLA Generalization? An Empirical Study", *NeurIPS, Sep 2025*.. [[Paper](https://arxiv.org/abs/2505.19789)] [[Code](https://github.com/gen-robot/RL4VLA)] [[Website](https://rlvla.github.io/)]
 * **LLM-TALE**: "LLM-Guided Task- and Affordance-Level Exploration in Reinforcement Learning", *arXiv, Sep 2025*. [[Paper](https://arxiv.org/pdf/2509.16615)] [[Code](https://github.com/llm-tale/llm_tale)] [[Website](https://github.com/llm-tale/llm_tale)]
@@ -178,7 +179,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Instructions and Navigation
-* **RoboSpatial**: "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics", CVPR, June 2025. [[Paper](https://arxiv.org/abs/2411.16537)] [[Code](https://github.com/NVlabs/RoboSpatial)] [[Website](https://chanh.ee/RoboSpatial/)]
+* **CANVAS**: "CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction", *ICRA, Oct 2024*. [[Paper](https://arxiv.org/abs/2410.01273)] [[Code](https://github.com/worv-ai/canvas)] [[Website](https://worv-ai.github.io/canvas/)]
+* **RoboSpatial**: "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics", *CVPR, June 2025*. [[Paper](https://arxiv.org/abs/2411.16537)] [[Code](https://github.com/NVlabs/RoboSpatial)] [[Website](https://chanh.ee/RoboSpatial/)]
 * **LLMxRobot**: "Autonomous Driving Systems with On-Board LLMs", *RSS, Apr 2025* [[Paper](https://www.roboticsproceedings.org/rss21/p140.pdf)][[Code](https://github.com/ForzaETH/LLMxRobot)][[Website](https://www.youtube.com/watch?v=4iGN1uBl4v4)]
 * **GSON**: "GSON: A Group-based Social Navigation Framework with Large Multimodal Model", *arxiv, Sept 2024* [[Paper](https://arxiv.org/abs/2409.18084)]
 * **Navid**: "NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation", *arxiv, Mar 2024* [[Paper](https://arxiv.org/abs/2402.15852)] [[Website](https://pku-epic.github.io/NaVid)]
