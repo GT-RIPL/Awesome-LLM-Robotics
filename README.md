@@ -181,6 +181,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Instructions and Navigation
+* **LAMP**: "LAMP: Implicit Language Map for Robot Navigation", *RA-L, 2025*. [[Paper](https://arxiv.org/abs/2602.11862)] [[Website](https://lab-of-ai-and-robotics.github.io/LAMP/)]
 * **CANVAS**: "CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction", *ICRA, Oct 2024*. [[Paper](https://arxiv.org/abs/2410.01273)] [[Code](https://github.com/worv-ai/canvas)] [[Website](https://worv-ai.github.io/canvas/)]
 * **RoboSpatial**: "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics", *CVPR, June 2025*. [[Paper](https://arxiv.org/abs/2411.16537)] [[Code](https://github.com/NVlabs/RoboSpatial)] [[Website](https://chanh.ee/RoboSpatial/)]
 * **LLMxRobot**: "Autonomous Driving Systems with On-Board LLMs", *RSS, Apr 2025* [[Paper](https://www.roboticsproceedings.org/rss21/p140.pdf)][[Code](https://github.com/ForzaETH/LLMxRobot)][[Website](https://www.youtube.com/watch?v=4iGN1uBl4v4)]
