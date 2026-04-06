@@ -210,6 +210,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
   * **BabyAI**: "BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning", *ICLR, May 2019*. [[https://arxiv.org/abs/1810.08272)] [[Code](https://github.com/mila-iqia/babyai/tree/iclr19)]
 
 ---
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - Multi-agent orchestration framework with 49 specialized LLM agents for task decomposition, delegation, and quality verification using Claude Code.
 ## Safety, Risks, Red Teaming, and Adversarial Testing
 * **BadVLA**: "Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization", *arXiv, May 2025*. [[Paper](https://www.arxiv.org/abs/2505.16640)] [[Code](https://github.com/Zxy-MLlab/BadVLA)] [[Website](https://badvla-project.github.io/)]
 * **RoboPAIR**: "Jailbreaking LLM-Controlled Robots", *International Conference on Robotics and Automation (ICRA) May 2025*. [[Paper](https://arxiv.org/abs/2410.13691)] [[Website](https://robopair.org/)]
