@@ -9,7 +9,9 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ---
 ## Overview
 
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [Awesome-LLM-Robotics ](#awesome-llm-robotics-)
+      - **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
       - [Please feel free to send me pull requests or email to add papers! ](#please-feel-free-to-send-me-pull-requests-or-email-to-add-papers-)
   - [Overview](#overview)
   - [Surveys](#surveys)
