@@ -199,6 +199,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Simulation Frameworks
+* **UnrealZoo**: "UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI", *ICCV Highlight, 2025*. [[Paper](https://arxiv.org/abs/2412.20977)] [[Code](https://github.com/UnrealZoo/unrealzoo-gym)] [[Website](https://unrealzoo.site/)]
 * **ManiSkill3**: "ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI.", *arxiv, Oct 2024*. [[Paper](https://arxiv.org/abs/2410.00425)] [[Code](https://github.com/haosulab/ManiSkill)] [[Website](http://maniskill.ai/)]
  * **GENESIS**: "A generative world for general-purpose robotics & embodied AI learning.", *arXiv, Nov 2023*. [[Code](https://github.com/Genesis-Embodied-AI/Genesis)] 
  * **ARNOLD**: "ARNOLD: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes", *ICCV, Apr 2023*. [[Paper](https://arxiv.org/abs/2304.04321)] [[Code](https://github.com/arnold-benchmark/arnold)] [[Website](https://arnold-benchmark.github.io/)]
