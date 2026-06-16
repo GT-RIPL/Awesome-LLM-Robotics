@@ -10,7 +10,6 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ## Overview
 
 - [Awesome-LLM-Robotics ](#awesome-llm-robotics-)
-- [A3M Router](https://github.com/Das-rebel/a3m-router) - #1 LLM routing benchmark & cheapest router with memory. 47+ providers, parallel execution, ensemble voting. ([RouterArena #1](https://github.com/RouteWorks/RouterArena/pull/113))      - [Please feel free to send me pull requests or email to add papers! ](#please-feel-free-to-send-me-pull-requests-or-email-to-add-papers-)
   - [Overview](#overview)
   - [Surveys](#surveys)
   - [Reasoning](#reasoning)
