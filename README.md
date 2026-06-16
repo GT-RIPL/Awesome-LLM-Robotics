@@ -23,6 +23,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Surveys
+* "Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses", *arXiv, May 2026*, [[Paper](https://arxiv.org/abs/2605.02900)] [[Website](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/)]
 * "A Survey of Robotic Language Grounding: Tradeoffs between Symbols and Embeddings", *IJCAI, Aug 2024*, [[Paper]](https://arxiv.org/abs/2405.13245)
 * "A Superalignment Framework in Autonomous Driving with Large Language Models", *arXiv, Jun 2024*, [[Paper](https://arxiv.org/abs/2406.05651)]
 * "Neural Scaling Laws for Embodied AI", *arXiv, May 2024*. [[Paper](https://arxiv.org/abs/2405.14005)]
