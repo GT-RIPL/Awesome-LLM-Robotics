@@ -18,6 +18,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
   - [Instructions and Navigation](#instructions-and-navigation)
   - [Simulation Frameworks](#simulation-frameworks)
   - [Safety, Risks, Red Teaming, and Adversarial Testing](#safety-risks-red-teaming-and-adversarial-testing)
+  - [Libraries and Tools](#libraries-and-tools)
   - [Citation](#citation)
 
 ---
@@ -221,6 +222,10 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **Highlighting the Safety Concerns of Deploying LLMs/VLMs in Robotics**: *arXiv, Feb 2024*. [[Paper](https://arxiv.org/abs/2402.10340)]
 * **Robots Enact Malignant Stereotypes**: *FAccT, Jun 2022*. [[arXiv](https://arxiv.org/abs/2207.11569)] [[DOI](https://doi.org/10.1145/3531146.3533138)] [[Code](https://github.com/ahundt/RobotsEnactMalignantStereotypes)] [[Website](https://sites.google.com/view/robots-enact-stereotypes/home)]
 * **Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics** *arXiv, Nov 2024* [[arXiv](https://arxiv.org/abs/2411.13587)] [[Code](https://github.com/William-wAng618/roboticAttack)] [[Website](https://vlaattacker.github.io/)]
+
+----
+## Libraries and Tools
+* **VeRL-Omni**: Easy, fast, and stable RL training for diffusion and omni-modality models. [[Code](https://github.com/verl-project/verl-omni)] [[Docs](https://verl-omni.readthedocs.io/en/latest/index.html)]
 
 ----
 ## Citation
