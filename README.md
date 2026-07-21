@@ -241,3 +241,7 @@ If you find this repository useful, please consider citing this list:
 ```
 
 
+
+
+## AI Manufacturing
+- [MetaVision Text-to-CNC](https://github.com/adminmetavision-rgb/text-to-cnc-agent) - LLM-powered manufacturing agent: natural language → 3D model → optimized G-code. MCP/A2A protocol, x402 payments.
