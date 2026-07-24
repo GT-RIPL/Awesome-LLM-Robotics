@@ -182,6 +182,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Instructions and Navigation
+* **StoryRoute**: "StoryRoute: Location-Grounded LLM Storytelling for Interactive Travel Narration", *Project, 2026*. [[Website](https://storyroute.netlify.app/)] [[Code](https://github.com/samirasadov28-code/storyroute)]
 * **LAMP**: "LAMP: Implicit Language Map for Robot Navigation", *RA-L, 2025*. [[Paper](https://arxiv.org/abs/2602.11862)] [[Website](https://lab-of-ai-and-robotics.github.io/LAMP/)]
 * **CANVAS**: "CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction", *ICRA, Oct 2024*. [[Paper](https://arxiv.org/abs/2410.01273)] [[Code](https://github.com/worv-ai/canvas)] [[Website](https://worv-ai.github.io/canvas/)]
 * **RoboSpatial**: "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics", *CVPR, June 2025*. [[Paper](https://arxiv.org/abs/2411.16537)] [[Code](https://github.com/NVlabs/RoboSpatial)] [[Website](https://chanh.ee/RoboSpatial/)]
