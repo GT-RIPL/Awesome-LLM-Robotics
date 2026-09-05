@@ -226,6 +226,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ----
 ## Libraries and Tools
 * **VeRL-Omni**: Easy, fast, and stable RL training for diffusion and omni-modality models. [[Code](https://github.com/verl-project/verl-omni)] [[Docs](https://verl-omni.readthedocs.io/en/latest/index.html)]
+* **Provael**: Adversarial evaluation for vision-language-action policies: attack families, a benign control arm, and a signed leaderboard. Simulation only. [[Code](https://github.com/provael/provael)] [[Docs](https://docs.provael.com)] [[Website](https://www.provael.com)]
 
 ----
 ## Citation
