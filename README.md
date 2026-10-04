@@ -126,6 +126,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Manipulation
+* **APPL**: "Agent Priors-guided Policy Learning", *arXiv, Sep 2026*. [[Paper](https://arxiv.org/abs/2609.35690)] [[Code](https://github.com/Agentics-robotics/Agent-Priors-guided-Policy-Learning)] [[Website](https://agentics-robotics.github.io/APPL/)]
 * **D2E**: "D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI", *arXiv, Oct 2025*. [[Paper](https://arxiv.org/abs/2510.05684)] [[Code](https://github.com/worv-ai/D2E)] [[Website](https://worv-ai.github.io/d2e/)]
 * **Prompt2Act**: "Prompt2Act: Mapping Prompts into Sequence of Robotic Actions with Large Foundation Models", *arxiv, Sep 2025*. [[Paper](https://arxiv.org/abs/2505.19789)] [[Code](https://github.com/Zero-coder/Prompt2Act)]
 * **RL4VLA**: "RL4VLA:What Can RL Bring to VLA Generalization? An Empirical Study", *NeurIPS, Sep 2025*.. [[Paper](https://arxiv.org/abs/2505.19789)] [[Code](https://github.com/gen-robot/RL4VLA)] [[Website](https://rlvla.github.io/)]
