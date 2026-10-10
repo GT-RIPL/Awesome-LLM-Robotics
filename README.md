@@ -74,6 +74,9 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Planning
+* **EMPIRIC**: "EMPIRIC: Experiment-Driven Learning of Residual World Models for Robot Planning", *arXiv, Sept 2026*. [[Paper](https://arxiv.org/abs/2609.35047)] [[Code](https://github.com/BasisResearch/predicators)] [[Website](https://basisresearch.github.io/empiric/)]
+* **ExoPredicator**: "ExoPredicator: Learning Abstract Models of Dynamic Worlds for Robot Planning", *ICLR, 2026*. [[Paper](https://arxiv.org/abs/2509.26255)] [[Code](https://github.com/BasisResearch/predicators)] [[Blog](https://www.basis.ai/blog/exopredicator/)]
+* **VisualPredicator**: "VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning", *ICLR, 2025*. [[Paper](https://arxiv.org/abs/2410.23156)] [[Code](https://github.com/BasisResearch/predicators)]
 * **FLARE**: "Multi-Modal Grounded Planning and Efficient Replanning For Learning Embodied Agents with a Few Examples", *AAAI, Mar 2025*. [[Paper](https://arxiv.org/abs/2412.17288)] [[Code](https://github.com/snumprlab/flare)]
 * **LLM+MAP**: "LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language", *arxiv, Mar 2025*. [[Paper](https://arxiv.org/abs/2503.17309)] [[Code](https://github.com/Kchu/LLM-MAP)]
 * **Code-as-Monitor**: "Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection", CVPR, 2025. [[Paper](https://arxiv.org/abs/2412.04455)] [[Project](https://zhoues.github.io/Code-as-Monitor/)]
