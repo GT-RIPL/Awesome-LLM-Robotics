@@ -77,6 +77,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ---
 ## Planning
 
+* **RoboQuest**: "RoboQuest: Generalist Physical Agents that Search, Inspect and Test", *arXiv, Oct 2026*. [[Paper](https://arxiv.org/abs/2610.10388)] [[Code](https://github.com/declare-lab/RoboQuest)] [[Website](https://declare-lab.github.io/RoboQuest/)]
 * **EMem**: "EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks", *arXiv, 2026*. [[Paper](https://arxiv.org/abs/2609.28236)] [[Code](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory)] [[Website](https://zju-omniai.github.io/Embodied-Omni/EmbodiedMemoryBench/)]
 * **FLARE**: "Multi-Modal Grounded Planning and Efficient Replanning For Learning Embodied Agents with a Few Examples", *AAAI, Mar 2025*. [[Paper](https://arxiv.org/abs/2412.17288)] [[Code](https://github.com/snumprlab/flare)]
 * **LLM+MAP**: "LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language", *arxiv, Mar 2025*. [[Paper](https://arxiv.org/abs/2503.17309)] [[Code](https://github.com/Kchu/LLM-MAP)]
@@ -205,6 +206,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Simulation Frameworks
+* **RoboQuest**: "RoboQuest: Generalist Physical Agents that Search, Inspect and Test", *arXiv, Oct 2026*. [[Paper](https://arxiv.org/abs/2610.10388)] [[Code](https://github.com/declare-lab/RoboQuest)] [[Website](https://declare-lab.github.io/RoboQuest/)]
 * **RescueBench**: "RescueBench: Can Embodied Agents Save Lives in the Wild?", *NeurIPS Evaluations and Datasets Track, 2026*. [[Paper](https://arxiv.org/abs/2606.01848)] [[Code](https://github.com/UnrealZoo/RescueBench)]
 * **UnrealZoo**: "UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI", *ICCV Highlight, 2025*. [[Paper](https://arxiv.org/abs/2412.20977)] [[Code](https://github.com/UnrealZoo/unrealzoo-gym)] [[Website](https://unrealzoo.site/)]
 * **ManiSkill3**: "ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI.", *arxiv, Oct 2024*. [[Paper](https://arxiv.org/abs/2410.00425)] [[Code](https://github.com/haosulab/ManiSkill)] [[Website](http://maniskill.ai/)]
