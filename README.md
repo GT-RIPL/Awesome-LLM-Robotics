@@ -78,6 +78,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ## Planning
 
 * **EMem**: "EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks", *arXiv, 2026*. [[Paper](https://arxiv.org/abs/2609.28236)] [[Code](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory)] [[Website](https://zju-omniai.github.io/Embodied-Omni/EmbodiedMemoryBench/)]
+* **VLM-MPC**: "VLM-MPC: Model predictive controller augmented vision language model for autonomous driving", *Transportation Research Part C: Emerging Technologies, Feb 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0968090X25004917)] [[arXiv](https://arxiv.org/abs/2408.04821)] [[Code](https://github.com/Keke-Long/VLM-MPC)]
 * **FLARE**: "Multi-Modal Grounded Planning and Efficient Replanning For Learning Embodied Agents with a Few Examples", *AAAI, Mar 2025*. [[Paper](https://arxiv.org/abs/2412.17288)] [[Code](https://github.com/snumprlab/flare)]
 * **LLM+MAP**: "LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language", *arxiv, Mar 2025*. [[Paper](https://arxiv.org/abs/2503.17309)] [[Code](https://github.com/Kchu/LLM-MAP)]
 * **Code-as-Monitor**: "Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection", CVPR, 2025. [[Paper](https://arxiv.org/abs/2412.04455)] [[Project](https://zhoues.github.io/Code-as-Monitor/)]
