@@ -137,7 +137,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **Prompt2Act**: "Prompt2Act: Mapping Prompts into Sequence of Robotic Actions with Large Foundation Models", *arxiv, Sep 2025*. [[Paper](https://arxiv.org/abs/2505.19789)] [[Code](https://github.com/Zero-coder/Prompt2Act)]
 * **RL4VLA**: "RL4VLA:What Can RL Bring to VLA Generalization? An Empirical Study", *NeurIPS, Sep 2025*.. [[Paper](https://arxiv.org/abs/2505.19789)] [[Code](https://github.com/gen-robot/RL4VLA)] [[Website](https://rlvla.github.io/)]
 * **LLM-TALE**: "LLM-Guided Task- and Affordance-Level Exploration in Reinforcement Learning", *arXiv, Sep 2025*. [[Paper](https://arxiv.org/pdf/2509.16615)] [[Code](https://github.com/llm-tale/llm_tale)] [[Website](https://github.com/llm-tale/llm_tale)]
-* **Wall-OSS**: "Igniting VLMs toward the Embodied Space", *arXiv, Sep 2025*. [[Paper](https://arxiv.org/abs/2509.11766)]
+* **Wall-OSS**: "Igniting VLMs toward the Embodied Space", *arXiv, Sep 2025*. [[Paper](https://arxiv.org/abs/2509.11766)] [[Code](https://github.com/X-Square-Robot/wall-x)]
 * **MolmoAct**: "MolmoAct: Action Reasoning Models that can Reason in Space", *arXiv, Aug 2025*. [[Paper](https://arxiv.org/abs/2508.07917)] [[Code](https://github.com/allenai/molmoact)]
 * **GR-3**: "GR-3 Technical Report", *arXiv, Jul 2025*. [[Paper](https://arxiv.org/abs/2507.15493)]
 * **SmolVLA**: "SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics", *arXiv, Jun 2025*. [[Paper](https://arxiv.org/abs/2506.01844)] [[Code](https://github.com/huggingface/lerobot)]
