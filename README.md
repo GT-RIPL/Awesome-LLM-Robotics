@@ -131,10 +131,16 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ---
 ## Manipulation
 * **APPL**: "Agent Priors-guided Policy Learning", *arXiv, Sep 2026*. [[Paper](https://arxiv.org/abs/2609.35690)] [[Code](https://github.com/Agentics-robotics/Agent-Priors-guided-Policy-Learning)] [[Website](https://agentics-robotics.github.io/APPL/)]
+* **π\*0.6**: "π\*0.6: a VLA That Learns From Experience", *arXiv, Nov 2025*. [[Paper](https://arxiv.org/abs/2511.14759)]
 * **D2E**: "D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI", *arXiv, Oct 2025*. [[Paper](https://arxiv.org/abs/2510.05684)] [[Code](https://github.com/worv-ai/D2E)] [[Website](https://worv-ai.github.io/d2e/)]
+* **Gemini Robotics 1.5**: "Gemini Robotics 1.5: Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer", *arXiv, Oct 2025*. [[Paper](https://arxiv.org/abs/2510.03342)]
 * **Prompt2Act**: "Prompt2Act: Mapping Prompts into Sequence of Robotic Actions with Large Foundation Models", *arxiv, Sep 2025*. [[Paper](https://arxiv.org/abs/2505.19789)] [[Code](https://github.com/Zero-coder/Prompt2Act)]
 * **RL4VLA**: "RL4VLA:What Can RL Bring to VLA Generalization? An Empirical Study", *NeurIPS, Sep 2025*.. [[Paper](https://arxiv.org/abs/2505.19789)] [[Code](https://github.com/gen-robot/RL4VLA)] [[Website](https://rlvla.github.io/)]
 * **LLM-TALE**: "LLM-Guided Task- and Affordance-Level Exploration in Reinforcement Learning", *arXiv, Sep 2025*. [[Paper](https://arxiv.org/pdf/2509.16615)] [[Code](https://github.com/llm-tale/llm_tale)] [[Website](https://github.com/llm-tale/llm_tale)]
+* **Wall-OSS**: "Igniting VLMs toward the Embodied Space", *arXiv, Sep 2025*. [[Paper](https://arxiv.org/abs/2509.11766)]
+* **MolmoAct**: "MolmoAct: Action Reasoning Models that can Reason in Space", *arXiv, Aug 2025*. [[Paper](https://arxiv.org/abs/2508.07917)] [[Code](https://github.com/allenai/molmoact)]
+* **GR-3**: "GR-3 Technical Report", *arXiv, Jul 2025*. [[Paper](https://arxiv.org/abs/2507.15493)]
+* **SmolVLA**: "SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics", *arXiv, Jun 2025*. [[Paper](https://arxiv.org/abs/2506.01844)] [[Code](https://github.com/huggingface/lerobot)]
 * **RoboSpatial**: "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics", CVPR, June 2025. [[Paper](https://arxiv.org/abs/2411.16537)] [[Code](https://github.com/NVlabs/RoboSpatial)] [[Website](https://chanh.ee/RoboSpatial/)]
 * **Meta-Control**: "Meta-Control: Automatic Model-based Control System Synthesis for Heterogeneous Robot Skills", *CoRL, Nov 2024*. [[Paper](https://arxiv.org/abs/2405.11380)] [[Website](https://meta-control-paper.github.io/)]
 * **A3VLM**: "A3VLM: Actionable Articulation-Aware Vision Language Model", *CoRL, Nov 2024*. [[Paper](https://arxiv.org/abs/2406.07549)] [[PyTorch Code](https://github.com/changhaonan/A3VLM)]
