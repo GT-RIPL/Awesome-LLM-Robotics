@@ -23,6 +23,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Surveys
+* "No Free Checker: A Survey of Verifiers for Robot Policies", *arXiv, Sep 2026*, [[Paper](https://arxiv.org/abs/2609.09250)] [[Paper List](https://github.com/ZJUSCL/Awesome-Robot-Verifier)] [[Website](https://zjuscl.github.io/Awesome-Robot-Verifier/)]
 * "Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses", *arXiv, May 2026*, [[Paper](https://arxiv.org/abs/2605.02900)] [[Website](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/)]
 * "A Survey of Robotic Language Grounding: Tradeoffs between Symbols and Embeddings", *IJCAI, Aug 2024*, [[Paper]](https://arxiv.org/abs/2405.13245)
 * "A Superalignment Framework in Autonomous Driving with Large Language Models", *arXiv, Jun 2024*, [[Paper](https://arxiv.org/abs/2406.05651)]
@@ -36,6 +37,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Reasoning
+* **Spatial-Interactor**: "Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World", *arXiv, Sep 2026*. [[Paper](https://arxiv.org/abs/2609.23038)] [[Code](https://github.com/ZJU-OmniAI/Spatial-Interactor)] [[Website](https://zju-omniai.github.io/Spatial-Interactor/)]
 * **RoboTracer**: "RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics", *arXiv, Dec 2025*. [[Paper](https://arxiv.org/abs/2512.13660)] [[Code](https://github.com/Zhoues/RoboTracer)] [[Website](https://zhoues.github.io/RoboTracer/)]
 * **RoboRefer**: "RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics", *arXiv, June 2025*. [[Paper](https://arxiv.org/abs/2506.04308)] [[Code](https://github.com/Zhoues/RoboRefer)] [[Website](https://zhoues.github.io/RoboRefer/)]
 * **RoboSpatial**: "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics", CVPR, June 2025. [[Paper](https://arxiv.org/abs/2411.16537)] [[Code](https://github.com/NVlabs/RoboSpatial)] [[Website](https://chanh.ee/RoboSpatial/)]
@@ -74,6 +76,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Planning
+
+* **EMem**: "EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks", *arXiv, 2026*. [[Paper](https://arxiv.org/abs/2609.28236)] [[Code](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory)] [[Website](https://zju-omniai.github.io/Embodied-Omni/EmbodiedMemoryBench/)]
 * **FLARE**: "Multi-Modal Grounded Planning and Efficient Replanning For Learning Embodied Agents with a Few Examples", *AAAI, Mar 2025*. [[Paper](https://arxiv.org/abs/2412.17288)] [[Code](https://github.com/snumprlab/flare)]
 * **LLM+MAP**: "LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language", *arxiv, Mar 2025*. [[Paper](https://arxiv.org/abs/2503.17309)] [[Code](https://github.com/Kchu/LLM-MAP)]
 * **Code-as-Monitor**: "Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection", CVPR, 2025. [[Paper](https://arxiv.org/abs/2412.04455)] [[Project](https://zhoues.github.io/Code-as-Monitor/)]
@@ -126,6 +130,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Manipulation
+* **APPL**: "Agent Priors-guided Policy Learning", *arXiv, Sep 2026*. [[Paper](https://arxiv.org/abs/2609.35690)] [[Code](https://github.com/Agentics-robotics/Agent-Priors-guided-Policy-Learning)] [[Website](https://agentics-robotics.github.io/APPL/)]
 * **MolmoMotion**: "MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction", *NeurIPS 2026 Spotlight*. [[Paper](https://arxiv.org/abs/2606.18558)]
 * **D2E**: "D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI", *arXiv, Oct 2025*. [[Paper](https://arxiv.org/abs/2510.05684)] [[Code](https://github.com/worv-ai/D2E)] [[Website](https://worv-ai.github.io/d2e/)]
 * **Prompt2Act**: "Prompt2Act: Mapping Prompts into Sequence of Robotic Actions with Large Foundation Models", *arxiv, Sep 2025*. [[Paper](https://arxiv.org/abs/2505.19789)] [[Code](https://github.com/Zero-coder/Prompt2Act)]
@@ -201,6 +206,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Simulation Frameworks
+* **RescueBench**: "RescueBench: Can Embodied Agents Save Lives in the Wild?", *NeurIPS Evaluations and Datasets Track, 2026*. [[Paper](https://arxiv.org/abs/2606.01848)] [[Code](https://github.com/UnrealZoo/RescueBench)]
 * **UnrealZoo**: "UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI", *ICCV Highlight, 2025*. [[Paper](https://arxiv.org/abs/2412.20977)] [[Code](https://github.com/UnrealZoo/unrealzoo-gym)] [[Website](https://unrealzoo.site/)]
 * **ManiSkill3**: "ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI.", *arxiv, Oct 2024*. [[Paper](https://arxiv.org/abs/2410.00425)] [[Code](https://github.com/haosulab/ManiSkill)] [[Website](http://maniskill.ai/)]
  * **GENESIS**: "A generative world for general-purpose robotics & embodied AI learning.", *arXiv, Nov 2023*. [[Code](https://github.com/Genesis-Embodied-AI/Genesis)] 
