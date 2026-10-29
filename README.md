@@ -136,6 +136,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **ACRO**: "ACRO: Actor–Critic Rollout Orchestration", *Preprint, Oct 2026*. [[Paper](https://junhoo.me/acro/assets/paper/acro-preprint.pdf)] [[Code](https://github.com/JunHoo-Lee/ACRO)] [[Website](https://junhoo.me/acro)]
 * **APPL**: "Agent Priors-guided Policy Learning", *arXiv, Sep 2026*. [[Paper](https://arxiv.org/abs/2609.35690)] [[Code](https://github.com/Agentics-robotics/Agent-Priors-guided-Policy-Learning)] [[Website](https://agentics-robotics.github.io/APPL/)]
 * **Spotter**: "Spotter: Let the Embodied Model Lead, and the VLM Reflect for It", *arXiv, Sep 2026*. [[Paper](https://arxiv.org/abs/2609.36808)] [[Code](https://github.com/zqc3117/Spotter)] [[Website](https://zqc3117.github.io/Spotter/)]
+* **RHD**: "Recursive Harness Distillation across Agents for Robot Manipulation", *arXiv, Sep 2026*. [[Paper](https://arxiv.org/abs/2609.33378)] [[Website](https://seungyeon.me/RHD/)]
 * **π\*0.6**: "π\*0.6: a VLA That Learns From Experience", *arXiv, Nov 2025*. [[Paper](https://arxiv.org/abs/2511.14759)]
 * **D2E**: "D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI", *arXiv, Oct 2025*. [[Paper](https://arxiv.org/abs/2510.05684)] [[Code](https://github.com/worv-ai/D2E)] [[Website](https://worv-ai.github.io/d2e/)]
 * **Gemini Robotics 1.5**: "Gemini Robotics 1.5: Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer", *arXiv, Oct 2025*. [[Paper](https://arxiv.org/abs/2510.03342)]
