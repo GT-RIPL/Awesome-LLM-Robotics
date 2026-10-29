@@ -78,7 +78,10 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ## Planning
 
 * **EMem**: "EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks", *arXiv, 2026*. [[Paper](https://arxiv.org/abs/2609.28236)] [[Code](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory)] [[Website](https://zju-omniai.github.io/Embodied-Omni/EmbodiedMemoryBench/)]
+* **EMPIRIC**: "EMPIRIC: Experiment-Driven Learning of Residual World Models for Robot Planning", *arXiv, Sep 2026*. [[Paper](https://arxiv.org/abs/2609.35047)] [[Code](https://github.com/BasisResearch/predicators)] [[Website](https://yichao-liang.github.io/empiric)]
+* **ExoPredicator**: "ExoPredicator: Learning Abstract Models of Dynamic Worlds for Robot Planning", *ICLR, Apr 2026*. [[Paper](https://arxiv.org/abs/2509.26255)] [[Code](https://github.com/BasisResearch/predicators)] [[Blog](https://www.basis.ai/blog/exopredicator/)]
 * **VLM-MPC**: "VLM-MPC: Model predictive controller augmented vision language model for autonomous driving", *Transportation Research Part C: Emerging Technologies, Feb 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0968090X25004917)] [[arXiv](https://arxiv.org/abs/2408.04821)] [[Code](https://github.com/Keke-Long/VLM-MPC)]
+* **VisualPredicator**: "VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning", *ICLR, Apr 2025*. [[Paper](https://arxiv.org/abs/2410.23156)] [[Code](https://github.com/BasisResearch/predicators)]
 * **FLARE**: "Multi-Modal Grounded Planning and Efficient Replanning For Learning Embodied Agents with a Few Examples", *AAAI, Mar 2025*. [[Paper](https://arxiv.org/abs/2412.17288)] [[Code](https://github.com/snumprlab/flare)]
 * **LLM+MAP**: "LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language", *arxiv, Mar 2025*. [[Paper](https://arxiv.org/abs/2503.17309)] [[Code](https://github.com/Kchu/LLM-MAP)]
 * **Code-as-Monitor**: "Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection", CVPR, 2025. [[Paper](https://arxiv.org/abs/2412.04455)] [[Project](https://zhoues.github.io/Code-as-Monitor/)]
@@ -94,8 +97,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **Attentive Support**: "To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions", *arXiv, March 2024*. [[Paper](https://arxiv.org/abs/2403.12533)] [[Website](https://hri-eu.github.io/AttentiveSupport/)][[Code](https://github.com/HRI-EU/AttentiveSupport)]
 * **Beyond Text**: "Beyond Text: Improving LLM's Decision Making for Robot Navigation via Vocal Cues", *arxiv, Feb 2024*. [[Paper](https://arxiv.org/abs/2402.03494)]
 * **SayCanPay**: "SayCanPay: Heuristic Planning with Large Language Models Using Learnable Domain Knowledge", AAAI Jan 2024, [[Paper](https://arxiv.org/abs/2308.12682)] [[Code](https://github.com/RishiHazra/saycanpay)] [[Website](https://rishihazra.github.io/SayCanPay/)]
-* **ViLa**: "Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning", *arXiv, Sep 2023*, [[Paper](https://arxiv.org/abs/2311.17842)] [[Website](https://robot-vila.github.io/)]
 * **CoPAL**: "Corrective Planning of Robot Actions with Large Language Models", *ICRA, Oct 2023*. [[Paper](https://arxiv.org/abs/2310.07263)] [[Website](https://hri-eu.github.io/Loom/)][[Code](https://github.com/HRI-EU/Loom/tree/main)]
+* **ViLa**: "Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning", *arXiv, Sep 2023*, [[Paper](https://arxiv.org/abs/2311.17842)] [[Website](https://robot-vila.github.io/)]
 * **LGMCTS**: "LGMCTS: Language-Guided Monte-Carlo Tree Search for Executable Semantic Object Rearrangement", *arXiv, Sep 2023*. [[Paper](https://arxiv.org/abs/2309.15821)]
 * **Prompt2Walk**: "Prompt a Robot to Walk with Large Language Models", *arXiv, Sep 2023*, [[Paper](https://arxiv.org/abs/2309.09969)] [[Website](https://prompt2walk.github.io)]
 * **DoReMi**: "Grounding Language Model by Detecting and Recovering from Plan-Execution Misalignment", *arXiv, July 2023*, [[Paper](https://arxiv.org/abs/2307.00329)] [[Website](https://sites.google.com/view/doremi-paper)]
@@ -131,12 +134,22 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Manipulation
+* **ACRO**: "ACRO: Actor–Critic Rollout Orchestration", *Preprint, Oct 2026*. [[Paper](https://junhoo.me/acro/assets/paper/acro-preprint.pdf)] [[Code](https://github.com/JunHoo-Lee/ACRO)] [[Website](https://junhoo.me/acro)]
+* **RobotUse**: "RobotUse: Allocating Computation, Context, and Decisions", *arXiv, Oct 2026*. [[Paper](https://arxiv.org/abs/2610.04929)] [[Code](https://github.com/robotuse-team/RobotUse)] [[Website](https://robotuse-team.github.io/)]
 * **APPL**: "Agent Priors-guided Policy Learning", *arXiv, Sep 2026*. [[Paper](https://arxiv.org/abs/2609.35690)] [[Code](https://github.com/Agentics-robotics/Agent-Priors-guided-Policy-Learning)] [[Website](https://agentics-robotics.github.io/APPL/)]
+* **Spotter**: "Spotter: Let the Embodied Model Lead, and the VLM Reflect for It", *arXiv, Sep 2026*. [[Paper](https://arxiv.org/abs/2609.36808)] [[Code](https://github.com/zqc3117/Spotter)] [[Website](https://zqc3117.github.io/Spotter/)]
+* **RHD**: "Recursive Harness Distillation across Agents for Robot Manipulation", *arXiv, Sep 2026*. [[Paper](https://arxiv.org/abs/2609.33378)] [[Website](https://seungyeon.me/RHD/)]
+* **π\*0.6**: "π\*0.6: a VLA That Learns From Experience", *arXiv, Nov 2025*. [[Paper](https://arxiv.org/abs/2511.14759)]
 * **D2E**: "D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI", *arXiv, Oct 2025*. [[Paper](https://arxiv.org/abs/2510.05684)] [[Code](https://github.com/worv-ai/D2E)] [[Website](https://worv-ai.github.io/d2e/)]
+* **Gemini Robotics 1.5**: "Gemini Robotics 1.5: Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer", *arXiv, Oct 2025*. [[Paper](https://arxiv.org/abs/2510.03342)]
 * **Prompt2Act**: "Prompt2Act: Mapping Prompts into Sequence of Robotic Actions with Large Foundation Models", *arxiv, Sep 2025*. [[Paper](https://arxiv.org/abs/2505.19789)] [[Code](https://github.com/Zero-coder/Prompt2Act)]
 * **RL4VLA**: "RL4VLA:What Can RL Bring to VLA Generalization? An Empirical Study", *NeurIPS, Sep 2025*.. [[Paper](https://arxiv.org/abs/2505.19789)] [[Code](https://github.com/gen-robot/RL4VLA)] [[Website](https://rlvla.github.io/)]
 * **LLM-TALE**: "LLM-Guided Task- and Affordance-Level Exploration in Reinforcement Learning", *arXiv, Sep 2025*. [[Paper](https://arxiv.org/pdf/2509.16615)] [[Code](https://github.com/llm-tale/llm_tale)] [[Website](https://github.com/llm-tale/llm_tale)]
+* **Wall-OSS**: "Igniting VLMs toward the Embodied Space", *arXiv, Sep 2025*. [[Paper](https://arxiv.org/abs/2509.11766)] [[Code](https://github.com/X-Square-Robot/wall-x)]
+* **MolmoAct**: "MolmoAct: Action Reasoning Models that can Reason in Space", *arXiv, Aug 2025*. [[Paper](https://arxiv.org/abs/2508.07917)] [[Code](https://github.com/allenai/molmoact)]
+* **GR-3**: "GR-3 Technical Report", *arXiv, Jul 2025*. [[Paper](https://arxiv.org/abs/2507.15493)]
 * **RoboSpatial**: "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics", CVPR, June 2025. [[Paper](https://arxiv.org/abs/2411.16537)] [[Code](https://github.com/NVlabs/RoboSpatial)] [[Website](https://chanh.ee/RoboSpatial/)]
+* **SmolVLA**: "SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics", *arXiv, Jun 2025*. [[Paper](https://arxiv.org/abs/2506.01844)] [[Code](https://github.com/huggingface/lerobot)]
 * **Meta-Control**: "Meta-Control: Automatic Model-based Control System Synthesis for Heterogeneous Robot Skills", *CoRL, Nov 2024*. [[Paper](https://arxiv.org/abs/2405.11380)] [[Website](https://meta-control-paper.github.io/)]
 * **A3VLM**: "A3VLM: Actionable Articulation-Aware Vision Language Model", *CoRL, Nov 2024*. [[Paper](https://arxiv.org/abs/2406.07549)] [[PyTorch Code](https://github.com/changhaonan/A3VLM)]
 * **Manipulate-Anything**: "Manipulate-Anything: Automating Real-World Robots using Vision-Language Models", *CoRL, Nov 2024*. [[Paper](https://arxiv.org/abs/2406.18915)] [[Website](https://robot-ma.github.io/)]
@@ -172,10 +185,10 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **LILAC**:"No, to the Right – Online Language Corrections for Robotic Manipulation via Shared Autonomy", *arXiv, Jan 2023*, [[Paper](https://arxiv.org/abs/2301.02555)] [[Pytorch Code](https://github.com/Stanford-ILIAD/lilac)]
 * **DIAL**:"Robotic Skill Acquistion via Instruction Augmentation with Vision-Language Models", *arXiv, Nov 2022*, [[Paper](https://arxiv.org/abs/2211.11736)] [[Website](https://instructionaugmentation.github.io/)]
 * **Gato**: "A Generalist Agent", *TMLR, Nov 2022*. [[Paper](https://arxiv.org/abs/2205.06175)]  [[Website](https://www.deepmind.com/publications/a-generalist-agent)]
-* **NLMap**:"Open-vocabulary Queryable Scene Representations for Real World Planning", *arXiv, Sep 2022*, [[Paper](https://arxiv.org/abs/2209.09874)] [[Website](https://nlmap-saycan.github.io/)]
 * **R3M**:"R3M: A Universal Visual Representation for Robot Manipulation", *arXiv, Nov 2022*, [[Paper](https://arxiv.org/abs/2203.12601)] [[Pytorch Code](https://github.com/facebookresearch/r3m)] [[Website](https://tinyurl.com/robotr3m)]
 * **CLIP-Fields**:"CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory", *arXiv, Oct 2022*, [[Paper](https://arxiv.org/abs/2210.05663)] [[PyTorch Code](https://github.com/notmahi/clip-fields)] [[Website](https://mahis.life/clip-fields/)]
 * **VIMA**:"VIMA: General Robot Manipulation with Multimodal Prompts", *arXiv, Oct 2022*, [[Paper](https://arxiv.org/abs/2210.03094)] [[Pytorch Code](https://github.com/vimalabs/VIMA)] [[Website](https://vimalabs.github.io/)]
+* **NLMap**:"Open-vocabulary Queryable Scene Representations for Real World Planning", *arXiv, Sep 2022*, [[Paper](https://arxiv.org/abs/2209.09874)] [[Website](https://nlmap-saycan.github.io/)]
 * **Perceiver-Actor**:"A Multi-Task Transformer for Robotic Manipulation", *CoRL, Sep 2022*. [[Paper](https://arxiv.org/abs/2209.05451)] [[Pytorch Code](https://github.com/peract/peract)] [[Website](https://peract.github.io/)]
 * **LaTTe**: "LaTTe: Language Trajectory TransformEr", *arXiv, Aug 2022*. [[Paper](https://arxiv.org/abs/2208.02918)] [[TensorFlow Code](https://github.com/arthurfenderbucker/NL_trajectory_reshaper)] [[Website](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/robot-language/)]
 * **Robots Enact Malignant Stereotypes**: "Robots Enact Malignant Stereotypes", *FAccT, Jun 2022*. [[Paper](https://arxiv.org/abs/2207.11569)] [[Pytorch Code](https://github.com/ahundt/RobotsEnactMalignantStereotypes)] [[Website](https://sites.google.com/view/robots-enact-stereotypes/home)] [[Washington Post](https://www.washingtonpost.com/technology/2022/07/16/racist-robots-ai/)] [[Wired](https://www.wired.com/story/how-to-stop-robots-becoming-racist/)] (code access on request)
@@ -233,6 +246,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ----
 ## Libraries and Tools
 * **VeRL-Omni**: Easy, fast, and stable RL training for diffusion and omni-modality models. [[Code](https://github.com/verl-project/verl-omni)] [[Docs](https://verl-omni.readthedocs.io/en/latest/index.html)]
+* **Provael**: Adversarial evaluation for vision-language-action policies: attack families, a benign control arm, and a signed leaderboard. Simulation only. [[Code](https://github.com/provael/provael)] [[Docs](https://docs.provael.com)] [[Website](https://www.provael.com)]
 
 ----
 ## Citation
