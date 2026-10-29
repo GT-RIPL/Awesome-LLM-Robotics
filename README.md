@@ -134,6 +134,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ---
 ## Manipulation
 * **ACRO**: "ACRO: Actor–Critic Rollout Orchestration", *Preprint, Oct 2026*. [[Paper](https://junhoo.me/acro/assets/paper/acro-preprint.pdf)] [[Code](https://github.com/JunHoo-Lee/ACRO)] [[Website](https://junhoo.me/acro)]
+* **RobotUse**: "RobotUse: Allocating Computation, Context, and Decisions", *arXiv, Oct 2026*. [[Paper](https://arxiv.org/abs/2610.04929)] [[Code](https://github.com/robotuse-team/RobotUse)] [[Website](https://robotuse-team.github.io/)]
 * **APPL**: "Agent Priors-guided Policy Learning", *arXiv, Sep 2026*. [[Paper](https://arxiv.org/abs/2609.35690)] [[Code](https://github.com/Agentics-robotics/Agent-Priors-guided-Policy-Learning)] [[Website](https://agentics-robotics.github.io/APPL/)]
 * **Spotter**: "Spotter: Let the Embodied Model Lead, and the VLM Reflect for It", *arXiv, Sep 2026*. [[Paper](https://arxiv.org/abs/2609.36808)] [[Code](https://github.com/zqc3117/Spotter)] [[Website](https://zqc3117.github.io/Spotter/)]
 * **RHD**: "Recursive Harness Distillation across Agents for Robot Manipulation", *arXiv, Sep 2026*. [[Paper](https://arxiv.org/abs/2609.33378)] [[Website](https://seungyeon.me/RHD/)]
