@@ -133,6 +133,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Manipulation
+* **ACRO**: "ACRO: Actor–Critic Rollout Orchestration", *Preprint, Oct 2026*. [[Paper](https://junhoo.me/acro/assets/paper/acro-preprint.pdf)] [[Code](https://github.com/JunHoo-Lee/ACRO)] [[Website](https://junhoo.me/acro)]
 * **APPL**: "Agent Priors-guided Policy Learning", *arXiv, Sep 2026*. [[Paper](https://arxiv.org/abs/2609.35690)] [[Code](https://github.com/Agentics-robotics/Agent-Priors-guided-Policy-Learning)] [[Website](https://agentics-robotics.github.io/APPL/)]
 * **Spotter**: "Spotter: Let the Embodied Model Lead, and the VLM Reflect for It", *arXiv, Sep 2026*. [[Paper](https://arxiv.org/abs/2609.36808)] [[Code](https://github.com/zqc3117/Spotter)] [[Website](https://zqc3117.github.io/Spotter/)]
 * **π\*0.6**: "π\*0.6: a VLA That Learns From Experience", *arXiv, Nov 2025*. [[Paper](https://arxiv.org/abs/2511.14759)]
