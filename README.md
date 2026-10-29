@@ -77,6 +77,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ---
 ## Planning
 
+* **RoboQuest**: "RoboQuest: Generalist Physical Agents that Search, Inspect and Test", *arXiv, Oct 2026*. [[Paper](https://arxiv.org/abs/2610.10388)] [[Code](https://github.com/declare-lab/RoboQuest)] [[Website](https://declare-lab.github.io/RoboQuest/)]
 * **EMem**: "EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks", *arXiv, 2026*. [[Paper](https://arxiv.org/abs/2609.28236)] [[Code](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory)] [[Website](https://zju-omniai.github.io/Embodied-Omni/EmbodiedMemoryBench/)]
 * **EMPIRIC**: "EMPIRIC: Experiment-Driven Learning of Residual World Models for Robot Planning", *arXiv, Sep 2026*. [[Paper](https://arxiv.org/abs/2609.35047)] [[Code](https://github.com/BasisResearch/predicators)] [[Website](https://yichao-liang.github.io/empiric)]
 * **ExoPredicator**: "ExoPredicator: Learning Abstract Models of Dynamic Worlds for Robot Planning", *ICLR, Apr 2026*. [[Paper](https://arxiv.org/abs/2509.26255)] [[Code](https://github.com/BasisResearch/predicators)] [[Blog](https://www.basis.ai/blog/exopredicator/)]
@@ -105,19 +106,19 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **Co-LLM-Agents**: "Building Cooperative Embodied Agents Modularly with Large Language Models", *arXiv, Jul 2023*. [[Paper](https://arxiv.org/abs/2307.02485)] [[Code](https://github.com/UMass-Foundation-Model/Co-LLM-Agents)] [[Website](https://vis-www.cs.umass.edu/Co-LLM-Agents/)]
 * **LLM-Reward**: "Language to Rewards for Robotic Skill Synthesis", *arXiv, Jun 2023*. [[Paper](https://arxiv.org/abs/2306.08647)] [[Website](https://language-to-reward.github.io/)]
 * **LLM-BRAIn**: "LLM-BRAIn: AI-driven Fast Generation of Robot Behaviour Tree based on Large Language Model", *arXiv, May 2023*. [[Paper](https://arxiv.org/abs/2305.19352)]
-* **GLAM**: "Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning", *arXiv, May 2023*. [[Paper](https://arxiv.org/abs/2302.02662)] [[Pytorch Code](https://github.com/flowersteam/Grounding_LLMs_with_online_RL)] 
-* **LLM-MCTS**: "Large Language Models as Commonsense Knowledge for Large-Scale Task Planning", *arXiv, May 2023*. [[Paper](https://arxiv.org/abs/2305.14078v1)] 
+* **GLAM**: "Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning", *arXiv, May 2023*. [[Paper](https://arxiv.org/abs/2302.02662)] [[Pytorch Code](https://github.com/flowersteam/Grounding_LLMs_with_online_RL)]
+* **LLM-MCTS**: "Large Language Models as Commonsense Knowledge for Large-Scale Task Planning", *arXiv, May 2023*. [[Paper](https://arxiv.org/abs/2305.14078v1)]
 * **AlphaBlock**: "AlphaBlock: Embodied Finetuning for Vision-Language Reasoning in Robot Manipulation", *arxiv, May 2023*. [[Paper](https://arxiv.org/abs/2305.18898)]
 * **LLM+P**:"LLM+P: Empowering Large Language Models with Optimal Planning Proficiency", *arXiv, Apr 2023*, [[Paper](https://arxiv.org/abs/2304.11477)] [[Code](https://github.com/Cranial-XIX/llm-pddl)]
 * **ChatGPT-Prompts**: "ChatGPT Empowered Long-Step Robot Control in Various Environments: A Case Application", *arXiv, Apr 2023*, [[Paper](https://arxiv.org/abs/2304.03893?s=03)] [[Code/Prompts](https://github.com/microsoft/ChatGPT-Robot-Manipulation-Prompts)]
 * **ReAct**: "ReAct: Synergizing Reasoning and Acting in Language Models", *ICLR, Apr 2023*. [[Paper](https://arxiv.org/abs/2210.03629)] [[Github](https://github.com/ysymyth/ReAct)] [[Website](https://react-lm.github.io/)]
-* **LLM-Brain**: "LLM as A Robotic Brain: Unifying Egocentric Memory and Control", arXiv, Apr 2023. [[Paper](https://arxiv.org/abs/2304.09349v1)] 
+* **LLM-Brain**: "LLM as A Robotic Brain: Unifying Egocentric Memory and Control", arXiv, Apr 2023. [[Paper](https://arxiv.org/abs/2304.09349v1)]
 * "Foundation Models for Decision Making: Problems, Methods, and Opportunities", *arXiv, Mar 2023*, [[Paper](https://arxiv.org/abs/2303.04129)]
 * **LLM-planner**: "LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models", *ICCV, Mar 2023*. [[Paper](https://arxiv.org/abs/2212.04088)] [[Pytorch Code](https://github.com/OSU-NLP-Group/LLM-Planner/)] [[Website](https://dki-lab.github.io/LLM-Planner/)]
 * **Text2Motion**: "Text2Motion: From Natural Language Instructions to Feasible Plans", *arXiV, Mar 2023*, [[Paper](https://arxiv.org/abs/2303.12153)] [[Website](https://sites.google.com/stanford.edu/text2motion)]
 * **GD**: "Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control", *arXiv, Mar 2023*. [[Paper](https://arxiv.org/abs/2303.00855)] [[Website](https://grounded-decoding.github.io/)]
 * **PromptCraft**: "ChatGPT for Robotics: Design Principles and Model Abilities", *Blog, Feb 2023*, [[Paper](https://arxiv.org/abs/2306.17582)] [[Website](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)]
-* "Reward Design with Language Models", *ICML, Feb 2023*. [[Paper](https://arxiv.org/abs/2303.00001v1)] [[Pytorch Code](https://github.com/minaek/reward_design_with_llms)] 
+* "Reward Design with Language Models", *ICML, Feb 2023*. [[Paper](https://arxiv.org/abs/2303.00001v1)] [[Pytorch Code](https://github.com/minaek/reward_design_with_llms)]
 * "Planning with Large Language Models via Corrective Re-prompting", *arXiv, Nov 2022*. [[Paper](https://arxiv.org/abs/2311.09935)]
 * **Don't Copy the Teacher**: "Don’t Copy the Teacher: Data and Model Challenges in Embodied Dialogue", *EMNLP, Oct 2022*. [[Paper](https://arxiv.org/abs/2210.04443)] [[Website](https://www.youtube.com/watch?v=qGPC65BDJw4&t=2s)]
 * **COWP**: "Robot Task Planning and Situation Handling in Open Worlds", *arXiv, Oct 2022*. [[Paper](https://arxiv.org/abs/2210.01287)] [[Pytorch Code](https://github.com/yding25/GPT-Planner)] [[Website](https://cowplanning.github.io/)]
@@ -129,8 +130,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **LID**: "Pre-Trained Language Models for Interactive Decision-Making", *arXiv, Feb 2022*. [[Paper](https://arxiv.org/abs/2202.01771)] [[Pytorch Code](https://github.com/ShuangLI59/Language-Model-Pre-training-Improves-Generalization-in-Policy-Learning)] [[Website](https://shuangli-project.github.io/Pre-Trained-Language-Models-for-Interactive-Decision-Making/)]
 * "Collaborating with language models for embodied reasoning", *NeurIPS, Feb 2022*. [[Paper](https://arxiv.org/abs/2302.00763v1)]
 * **ZSP**: "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents", *ICML, Jan 2022*. [[Paper](https://arxiv.org/abs/2201.07207)] [[Pytorch Code](https://github.com/huangwl18/language-planner)] [[Website](https://wenlong.page/language-planner/)]
-* **CALM**: "Keep CALM and Explore: Language Models for Action Generation in Text-based Games", *arXiv, Oct 2020*. [[Paper](https://arxiv.org/abs/2010.02903)] [[Pytorch Code](https://github.com/princeton-nlp/calm-textgame)] 
-* "Visually-Grounded Planning without Vision: Language Models Infer Detailed Plans from High-level Instructions", *arXiV, Oct 2020*, [[Paper](https://arxiv.org/abs/2009.14259)] 
+* **CALM**: "Keep CALM and Explore: Language Models for Action Generation in Text-based Games", *arXiv, Oct 2020*. [[Paper](https://arxiv.org/abs/2010.02903)] [[Pytorch Code](https://github.com/princeton-nlp/calm-textgame)]
+* "Visually-Grounded Planning without Vision: Language Models Infer Detailed Plans from High-level Instructions", *arXiV, Oct 2020*, [[Paper](https://arxiv.org/abs/2009.14259)]
 
 ---
 ## Manipulation
@@ -219,13 +220,14 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Simulation Frameworks
+* **RoboQuest**: "RoboQuest: Generalist Physical Agents that Search, Inspect and Test", *arXiv, Oct 2026*. [[Paper](https://arxiv.org/abs/2610.10388)] [[Code](https://github.com/declare-lab/RoboQuest)] [[Website](https://declare-lab.github.io/RoboQuest/)]
 * **RescueBench**: "RescueBench: Can Embodied Agents Save Lives in the Wild?", *NeurIPS Evaluations and Datasets Track, 2026*. [[Paper](https://arxiv.org/abs/2606.01848)] [[Code](https://github.com/UnrealZoo/RescueBench)]
 * **UnrealZoo**: "UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI", *ICCV Highlight, 2025*. [[Paper](https://arxiv.org/abs/2412.20977)] [[Code](https://github.com/UnrealZoo/unrealzoo-gym)] [[Website](https://unrealzoo.site/)]
 * **ManiSkill3**: "ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI.", *arxiv, Oct 2024*. [[Paper](https://arxiv.org/abs/2410.00425)] [[Code](https://github.com/haosulab/ManiSkill)] [[Website](http://maniskill.ai/)]
- * **GENESIS**: "A generative world for general-purpose robotics & embodied AI learning.", *arXiv, Nov 2023*. [[Code](https://github.com/Genesis-Embodied-AI/Genesis)] 
+ * **GENESIS**: "A generative world for general-purpose robotics & embodied AI learning.", *arXiv, Nov 2023*. [[Code](https://github.com/Genesis-Embodied-AI/Genesis)]
  * **ARNOLD**: "ARNOLD: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes", *ICCV, Apr 2023*. [[Paper](https://arxiv.org/abs/2304.04321)] [[Code](https://github.com/arnold-benchmark/arnold)] [[Website](https://arnold-benchmark.github.io/)]
- * **OmniGibson**: "OmniGibson: a platform for accelerating Embodied AI research built upon NVIDIA's Omniverse engine".*6th Annual Conference on Robot Learning, 2022*. [[Paper](https://openreview.net/forum?id=_8DoIe8G3t)] [[Code](https://github.com/StanfordVL/OmniGibson)] 
  * **MineDojo**: "MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge", *arXiv, Jun 2022*. [[Paper](https://arxiv.org/abs/2206.08853)] [[Code](https://github.com/MineDojo/MineDojo)] [[Website](https://minedojo.org/)] [[Open Database](https://minedojo.org/knowledge_base.html)]
+ * **OmniGibson**: "OmniGibson: a platform for accelerating Embodied AI research built upon NVIDIA's Omniverse engine".*6th Annual Conference on Robot Learning, 2022*. [[Paper](https://openreview.net/forum?id=_8DoIe8G3t)] [[Code](https://github.com/StanfordVL/OmniGibson)]
  * **Habitat 2.0**: "Habitat 2.0: Training Home Assistants to Rearrange their Habitat", *NeurIPS, Dec 2021*. [[Paper](https://arxiv.org/abs/2106.14405)] [[Code](https://github.com/facebookresearch/habitat-sim)] [[Website](https://aihabitat.org/)]
  * **BEHAVIOR**: "BEHAVIOR: Benchmark for Everyday Household Activities in Virtual, Interactive, and Ecological Environments", *CoRL, Nov 2021*. [[Paper](https://arxiv.org/abs/2108.03332)] [[Code](https://github.com/StanfordVL/behavior)] [[Website](https://behavior.stanford.edu/)]
  * **iGibson 1.0**: "iGibson 1.0: a Simulation Environment for Interactive Tasks in Large Realistic Scenes", *IROS, Sep 2021*. [[Paper](https://arxiv.org/abs/2012.02924)] [[Code](https://github.com/StanfordVL/iGibson)] [[Website](https://svl.stanford.edu/igibson/)]
