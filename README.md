@@ -141,6 +141,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **APPL**: "Agent Priors-guided Policy Learning", *arXiv, Sep 2026*. [[Paper](https://arxiv.org/abs/2609.35690)] [[Code](https://github.com/Agentics-robotics/Agent-Priors-guided-Policy-Learning)] [[Website](https://agentics-robotics.github.io/APPL/)]
 * **RHD**: "Recursive Harness Distillation across Agents for Robot Manipulation", *arXiv, Sep 2026*. [[Paper](https://arxiv.org/abs/2609.33378)] [[Website](https://seungyeon.me/RHD/)]
 * **CAPEX**: "CAPEX: Efficiently Distilling Foundation Model Behavior into Deployable Robot Policies through Experience-Adaptive Reasoning", *arXiv, Sep 2026*. [[Paper](https://arxiv.org/abs/2609.33007)] [[Website](https://capex-paper.github.io/)]
+* **MolmoMotion**: "MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction", *arXiv, Jun 2026*. [[Paper](https://arxiv.org/abs/2606.18558)]
 * **SeeTraceAct**: "SeeTraceAct: Visibility-Aware Latent Planning from Cross-Embodiment Demonstration Videos", *arXiv, Jun 2026; CoRL 2026*. [[Paper](https://arxiv.org/abs/2606.02745)]
 * **EVE**: "EVE: A Generator-Verifier System for Generative Policies", *arXiv, Dec 2025; ICRA Workshops 2026*. [[Paper](https://arxiv.org/abs/2512.21430)]
 * **π\*0.6**: "π\*0.6: a VLA That Learns From Experience", *arXiv, Nov 2025*. [[Paper](https://arxiv.org/abs/2511.14759)]
