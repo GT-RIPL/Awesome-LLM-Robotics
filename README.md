@@ -37,6 +37,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Reasoning
+* **MJev-Spatial**: "MJev-Spatial: System One Spatial Intelligence via Native Attention Matching", *arXiv, Oct 2026*. [[Paper](https://arxiv.org/abs/2610.22276)] [[Code](https://github.com/Fr0zenCrane/MJev-Spatial)]
 * **Spatial-Interactor**: "Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World", *arXiv, Sep 2026*. [[Paper](https://arxiv.org/abs/2609.23038)] [[Code](https://github.com/ZJU-OmniAI/Spatial-Interactor)] [[Website](https://zju-omniai.github.io/Spatial-Interactor/)]
 * **RoboTracer**: "RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics", *arXiv, Dec 2025*. [[Paper](https://arxiv.org/abs/2512.13660)] [[Code](https://github.com/Zhoues/RoboTracer)] [[Website](https://zhoues.github.io/RoboTracer/)]
 * **RoboRefer**: "RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics", *arXiv, Jun 2025*. [[Paper](https://arxiv.org/abs/2506.04308)] [[Code](https://github.com/Zhoues/RoboRefer)] [[Website](https://zhoues.github.io/RoboRefer/)]
