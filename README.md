@@ -226,6 +226,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Simulation Frameworks
+* **RoboSimStudio**: "RoboSimStudio: An Interactive Toolkit for Human and Agent Rapid Real2Sim of Robot Manipulation Tasks", *arXiv, Oct 2026*. [[Paper](https://arxiv.org/abs/2610.18835)] [[Code](https://github.com/robosimstudio/robosimstudio)] [[Website](https://robosimstudio.github.io/)]
 * **RoboQuest**: "RoboQuest: Generalist Physical Agents that Search, Inspect and Test", *arXiv, Oct 2026*. [[Paper](https://arxiv.org/abs/2610.10388)] [[Code](https://github.com/declare-lab/RoboQuest)] [[Website](https://declare-lab.github.io/RoboQuest/)]
 * **RescueBench**: "RescueBench: Can Embodied Agents Save Lives in the Wild?", *NeurIPS Evaluations and Datasets Track, 2026*. [[Paper](https://arxiv.org/abs/2606.01848)] [[Code](https://github.com/UnrealZoo/RescueBench)]
 * **UnrealZoo**: "UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI", *ICCV Highlight, 2025*. [[Paper](https://arxiv.org/abs/2412.20977)] [[Code](https://github.com/UnrealZoo/unrealzoo-gym)] [[Website](https://unrealzoo.site/)]
