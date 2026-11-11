@@ -242,6 +242,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Safety, Risks, Red Teaming, and Adversarial Testing
+* **LEASH**: "LEASH: Stay Safe in Agentic Robotics", *arXiv 2026*. [[Paper](https://arxiv.org/abs/2611.14115)] [[Code](https://github.com/zhuqinfeng1999/LEASH)] [[Website](https://zhuqinfeng1999.github.io/LEASH/)]
 * **Hide-and-Seek**: "Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring", *arXiv, May 2026; NeurIPS 2026*. [[Paper](https://arxiv.org/abs/2605.30834)]
 * **BadVLA**: "Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization", *arXiv, May 2025*. [[Paper](https://www.arxiv.org/abs/2505.16640)] [[Code](https://github.com/Zxy-MLlab/BadVLA)] [[Website](https://badvla-project.github.io/)]
 * **RoboPAIR**: "Jailbreaking LLM-Controlled Robots", *International Conference on Robotics and Automation (ICRA) May 2025*. [[Paper](https://arxiv.org/abs/2410.13691)] [[Website](https://robopair.org/)]
